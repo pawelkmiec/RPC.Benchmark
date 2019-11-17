@@ -1,0 +1,5002 @@
+[
+  {
+    "SalesQuantityLastMonth": 11159,
+    "SalesQuantityLastYear": 11506,
+    "SalesQuantityTotal": 11963
+  },
+  {
+    "SalesQuantityLastMonth": 23224,
+    "SalesQuantityLastYear": 30416,
+    "SalesQuantityTotal": 2461
+  },
+  {
+    "SalesQuantityLastMonth": 29383,
+    "SalesQuantityLastYear": 25118,
+    "SalesQuantityTotal": 16653
+  },
+  {
+    "SalesQuantityLastMonth": 2914,
+    "SalesQuantityLastYear": 23818,
+    "SalesQuantityTotal": 3930
+  },
+  {
+    "SalesQuantityLastMonth": 29207,
+    "SalesQuantityLastYear": 6849,
+    "SalesQuantityTotal": 5021
+  },
+  {
+    "SalesQuantityLastMonth": 29332,
+    "SalesQuantityLastYear": 32449,
+    "SalesQuantityTotal": 4728
+  },
+  {
+    "SalesQuantityLastMonth": 28852,
+    "SalesQuantityLastYear": 7629,
+    "SalesQuantityTotal": 25133
+  },
+  {
+    "SalesQuantityLastMonth": 24946,
+    "SalesQuantityLastYear": 2398,
+    "SalesQuantityTotal": 17099
+  },
+  {
+    "SalesQuantityLastMonth": 1216,
+    "SalesQuantityLastYear": 2739,
+    "SalesQuantityTotal": 27751
+  },
+  {
+    "SalesQuantityLastMonth": 15723,
+    "SalesQuantityLastYear": 29509,
+    "SalesQuantityTotal": 32665
+  },
+  {
+    "SalesQuantityLastMonth": 7528,
+    "SalesQuantityLastYear": 9294,
+    "SalesQuantityTotal": 4287
+  },
+  {
+    "SalesQuantityLastMonth": 7448,
+    "SalesQuantityLastYear": 24497,
+    "SalesQuantityTotal": 7356
+  },
+  {
+    "SalesQuantityLastMonth": 1462,
+    "SalesQuantityLastYear": 29333,
+    "SalesQuantityTotal": 15549
+  },
+  {
+    "SalesQuantityLastMonth": 14624,
+    "SalesQuantityLastYear": 25853,
+    "SalesQuantityTotal": 19796
+  },
+  {
+    "SalesQuantityLastMonth": 5071,
+    "SalesQuantityLastYear": 22295,
+    "SalesQuantityTotal": 11409
+  },
+  {
+    "SalesQuantityLastMonth": 26691,
+    "SalesQuantityLastYear": 30918,
+    "SalesQuantityTotal": 3601
+  },
+  {
+    "SalesQuantityLastMonth": 27653,
+    "SalesQuantityLastYear": 30567,
+    "SalesQuantityTotal": 28607
+  },
+  {
+    "SalesQuantityLastMonth": 5235,
+    "SalesQuantityLastYear": 8042,
+    "SalesQuantityTotal": 2039
+  },
+  {
+    "SalesQuantityLastMonth": 32062,
+    "SalesQuantityLastYear": 18981,
+    "SalesQuantityTotal": 9364
+  },
+  {
+    "SalesQuantityLastMonth": 27632,
+    "SalesQuantityLastYear": 22264,
+    "SalesQuantityTotal": 27933
+  },
+  {
+    "SalesQuantityLastMonth": 7477,
+    "SalesQuantityLastYear": 13916,
+    "SalesQuantityTotal": 28377
+  },
+  {
+    "SalesQuantityLastMonth": 16755,
+    "SalesQuantityLastYear": 28154,
+    "SalesQuantityTotal": 14780
+  },
+  {
+    "SalesQuantityLastMonth": 32411,
+    "SalesQuantityLastYear": 22014,
+    "SalesQuantityTotal": 15120
+  },
+  {
+    "SalesQuantityLastMonth": 30433,
+    "SalesQuantityLastYear": 3372,
+    "SalesQuantityTotal": 21946
+  },
+  {
+    "SalesQuantityLastMonth": 14483,
+    "SalesQuantityLastYear": 14544,
+    "SalesQuantityTotal": 5593
+  },
+  {
+    "SalesQuantityLastMonth": 20130,
+    "SalesQuantityLastYear": 12870,
+    "SalesQuantityTotal": 7292
+  },
+  {
+    "SalesQuantityLastMonth": 4588,
+    "SalesQuantityLastYear": 24406,
+    "SalesQuantityTotal": 20837
+  },
+  {
+    "SalesQuantityLastMonth": 31710,
+    "SalesQuantityLastYear": 4314,
+    "SalesQuantityTotal": 2549
+  },
+  {
+    "SalesQuantityLastMonth": 1507,
+    "SalesQuantityLastYear": 2503,
+    "SalesQuantityTotal": 8154
+  },
+  {
+    "SalesQuantityLastMonth": 5772,
+    "SalesQuantityLastYear": 30759,
+    "SalesQuantityTotal": 6598
+  },
+  {
+    "SalesQuantityLastMonth": 7325,
+    "SalesQuantityLastYear": 20383,
+    "SalesQuantityTotal": 7403
+  },
+  {
+    "SalesQuantityLastMonth": 12192,
+    "SalesQuantityLastYear": 24186,
+    "SalesQuantityTotal": 21084
+  },
+  {
+    "SalesQuantityLastMonth": 26908,
+    "SalesQuantityLastYear": 29397,
+    "SalesQuantityTotal": 27047
+  },
+  {
+    "SalesQuantityLastMonth": 9159,
+    "SalesQuantityLastYear": 21248,
+    "SalesQuantityTotal": 29988
+  },
+  {
+    "SalesQuantityLastMonth": 2697,
+    "SalesQuantityLastYear": 16056,
+    "SalesQuantityTotal": 26326
+  },
+  {
+    "SalesQuantityLastMonth": 20262,
+    "SalesQuantityLastYear": 26724,
+    "SalesQuantityTotal": 31618
+  },
+  {
+    "SalesQuantityLastMonth": 29261,
+    "SalesQuantityLastYear": 21943,
+    "SalesQuantityTotal": 15227
+  },
+  {
+    "SalesQuantityLastMonth": 23600,
+    "SalesQuantityLastYear": 15838,
+    "SalesQuantityTotal": 25846
+  },
+  {
+    "SalesQuantityLastMonth": 29435,
+    "SalesQuantityLastYear": 12696,
+    "SalesQuantityTotal": 25861
+  },
+  {
+    "SalesQuantityLastMonth": 13528,
+    "SalesQuantityLastYear": 30163,
+    "SalesQuantityTotal": 14115
+  },
+  {
+    "SalesQuantityLastMonth": 9604,
+    "SalesQuantityLastYear": 32441,
+    "SalesQuantityTotal": 21783
+  },
+  {
+    "SalesQuantityLastMonth": 1818,
+    "SalesQuantityLastYear": 7336,
+    "SalesQuantityTotal": 2607
+  },
+  {
+    "SalesQuantityLastMonth": 14174,
+    "SalesQuantityLastYear": 31813,
+    "SalesQuantityTotal": 18730
+  },
+  {
+    "SalesQuantityLastMonth": 9315,
+    "SalesQuantityLastYear": 13012,
+    "SalesQuantityTotal": 28196
+  },
+  {
+    "SalesQuantityLastMonth": 3413,
+    "SalesQuantityLastYear": 23616,
+    "SalesQuantityTotal": 29268
+  },
+  {
+    "SalesQuantityLastMonth": 11591,
+    "SalesQuantityLastYear": 19260,
+    "SalesQuantityTotal": 7948
+  },
+  {
+    "SalesQuantityLastMonth": 15009,
+    "SalesQuantityLastYear": 14198,
+    "SalesQuantityTotal": 6921
+  },
+  {
+    "SalesQuantityLastMonth": 1754,
+    "SalesQuantityLastYear": 17423,
+    "SalesQuantityTotal": 24865
+  },
+  {
+    "SalesQuantityLastMonth": 29551,
+    "SalesQuantityLastYear": 24332,
+    "SalesQuantityTotal": 19113
+  },
+  {
+    "SalesQuantityLastMonth": 27519,
+    "SalesQuantityLastYear": 8643,
+    "SalesQuantityTotal": 1302
+  },
+  {
+    "SalesQuantityLastMonth": 16125,
+    "SalesQuantityLastYear": 29652,
+    "SalesQuantityTotal": 27811
+  },
+  {
+    "SalesQuantityLastMonth": 11900,
+    "SalesQuantityLastYear": 30315,
+    "SalesQuantityTotal": 13682
+  },
+  {
+    "SalesQuantityLastMonth": 29443,
+    "SalesQuantityLastYear": 14493,
+    "SalesQuantityTotal": 19245
+  },
+  {
+    "SalesQuantityLastMonth": 17911,
+    "SalesQuantityLastYear": 12805,
+    "SalesQuantityTotal": 32572
+  },
+  {
+    "SalesQuantityLastMonth": 10787,
+    "SalesQuantityLastYear": 12883,
+    "SalesQuantityTotal": 2470
+  },
+  {
+    "SalesQuantityLastMonth": 28171,
+    "SalesQuantityLastYear": 12681,
+    "SalesQuantityTotal": 2486
+  },
+  {
+    "SalesQuantityLastMonth": 422,
+    "SalesQuantityLastYear": 1361,
+    "SalesQuantityTotal": 6856
+  },
+  {
+    "SalesQuantityLastMonth": 5835,
+    "SalesQuantityLastYear": 15410,
+    "SalesQuantityTotal": 32685
+  },
+  {
+    "SalesQuantityLastMonth": 2938,
+    "SalesQuantityLastYear": 30943,
+    "SalesQuantityTotal": 4616
+  },
+  {
+    "SalesQuantityLastMonth": 4206,
+    "SalesQuantityLastYear": 5035,
+    "SalesQuantityTotal": 15772
+  },
+  {
+    "SalesQuantityLastMonth": 16261,
+    "SalesQuantityLastYear": 19422,
+    "SalesQuantityTotal": 23426
+  },
+  {
+    "SalesQuantityLastMonth": 17683,
+    "SalesQuantityLastYear": 25958,
+    "SalesQuantityTotal": 16128
+  },
+  {
+    "SalesQuantityLastMonth": 640,
+    "SalesQuantityLastYear": 24281,
+    "SalesQuantityTotal": 26069
+  },
+  {
+    "SalesQuantityLastMonth": 15842,
+    "SalesQuantityLastYear": 14916,
+    "SalesQuantityTotal": 5023
+  },
+  {
+    "SalesQuantityLastMonth": 29865,
+    "SalesQuantityLastYear": 1648,
+    "SalesQuantityTotal": 7116
+  },
+  {
+    "SalesQuantityLastMonth": 23735,
+    "SalesQuantityLastYear": 4795,
+    "SalesQuantityTotal": 22650
+  },
+  {
+    "SalesQuantityLastMonth": 1635,
+    "SalesQuantityLastYear": 11906,
+    "SalesQuantityTotal": 16883
+  },
+  {
+    "SalesQuantityLastMonth": 27353,
+    "SalesQuantityLastYear": 7538,
+    "SalesQuantityTotal": 27214
+  },
+  {
+    "SalesQuantityLastMonth": 10545,
+    "SalesQuantityLastYear": 14497,
+    "SalesQuantityTotal": 27894
+  },
+  {
+    "SalesQuantityLastMonth": 9218,
+    "SalesQuantityLastYear": 32140,
+    "SalesQuantityTotal": 9321
+  },
+  {
+    "SalesQuantityLastMonth": 25493,
+    "SalesQuantityLastYear": 9713,
+    "SalesQuantityTotal": 3729
+  },
+  {
+    "SalesQuantityLastMonth": 1906,
+    "SalesQuantityLastYear": 26151,
+    "SalesQuantityTotal": 9402
+  },
+  {
+    "SalesQuantityLastMonth": 19692,
+    "SalesQuantityLastYear": 19110,
+    "SalesQuantityTotal": 27786
+  },
+  {
+    "SalesQuantityLastMonth": 21168,
+    "SalesQuantityLastYear": 9184,
+    "SalesQuantityTotal": 17347
+  },
+  {
+    "SalesQuantityLastMonth": 19213,
+    "SalesQuantityLastYear": 2088,
+    "SalesQuantityTotal": 17132
+  },
+  {
+    "SalesQuantityLastMonth": 18312,
+    "SalesQuantityLastYear": 31293,
+    "SalesQuantityTotal": 28589
+  },
+  {
+    "SalesQuantityLastMonth": 7463,
+    "SalesQuantityLastYear": 32588,
+    "SalesQuantityTotal": 14323
+  },
+  {
+    "SalesQuantityLastMonth": 3655,
+    "SalesQuantityLastYear": 4121,
+    "SalesQuantityTotal": 32145
+  },
+  {
+    "SalesQuantityLastMonth": 24837,
+    "SalesQuantityLastYear": 16143,
+    "SalesQuantityTotal": 23237
+  },
+  {
+    "SalesQuantityLastMonth": 15669,
+    "SalesQuantityLastYear": 1886,
+    "SalesQuantityTotal": 5514
+  },
+  {
+    "SalesQuantityLastMonth": 15318,
+    "SalesQuantityLastYear": 26697,
+    "SalesQuantityTotal": 6776
+  },
+  {
+    "SalesQuantityLastMonth": 22190,
+    "SalesQuantityLastYear": 28078,
+    "SalesQuantityTotal": 17997
+  },
+  {
+    "SalesQuantityLastMonth": 28215,
+    "SalesQuantityLastYear": 8265,
+    "SalesQuantityTotal": 30481
+  },
+  {
+    "SalesQuantityLastMonth": 30631,
+    "SalesQuantityLastYear": 17870,
+    "SalesQuantityTotal": 3795
+  },
+  {
+    "SalesQuantityLastMonth": 6617,
+    "SalesQuantityLastYear": 23506,
+    "SalesQuantityTotal": 7954
+  },
+  {
+    "SalesQuantityLastMonth": 10261,
+    "SalesQuantityLastYear": 21093,
+    "SalesQuantityTotal": 25381
+  },
+  {
+    "SalesQuantityLastMonth": 26180,
+    "SalesQuantityLastYear": 28953,
+    "SalesQuantityTotal": 29368
+  },
+  {
+    "SalesQuantityLastMonth": 13396,
+    "SalesQuantityLastYear": 24932,
+    "SalesQuantityTotal": 9501
+  },
+  {
+    "SalesQuantityLastMonth": 11425,
+    "SalesQuantityLastYear": 6313,
+    "SalesQuantityTotal": 32375
+  },
+  {
+    "SalesQuantityLastMonth": 2528,
+    "SalesQuantityLastYear": 1569,
+    "SalesQuantityTotal": 26027
+  },
+  {
+    "SalesQuantityLastMonth": 2890,
+    "SalesQuantityLastYear": 4279,
+    "SalesQuantityTotal": 17479
+  },
+  {
+    "SalesQuantityLastMonth": 22527,
+    "SalesQuantityLastYear": 6105,
+    "SalesQuantityTotal": 15255
+  },
+  {
+    "SalesQuantityLastMonth": 10827,
+    "SalesQuantityLastYear": 29790,
+    "SalesQuantityTotal": 6778
+  },
+  {
+    "SalesQuantityLastMonth": 31903,
+    "SalesQuantityLastYear": 22865,
+    "SalesQuantityTotal": 23284
+  },
+  {
+    "SalesQuantityLastMonth": 30876,
+    "SalesQuantityLastYear": 9600,
+    "SalesQuantityTotal": 14973
+  },
+  {
+    "SalesQuantityLastMonth": 10783,
+    "SalesQuantityLastYear": 29806,
+    "SalesQuantityTotal": 13383
+  },
+  {
+    "SalesQuantityLastMonth": 24446,
+    "SalesQuantityLastYear": 14831,
+    "SalesQuantityTotal": 27817
+  },
+  {
+    "SalesQuantityLastMonth": 30623,
+    "SalesQuantityLastYear": 22256,
+    "SalesQuantityTotal": 5701
+  },
+  {
+    "SalesQuantityLastMonth": 8914,
+    "SalesQuantityLastYear": 2178,
+    "SalesQuantityTotal": 2021
+  },
+  {
+    "SalesQuantityLastMonth": 30043,
+    "SalesQuantityLastYear": 11020,
+    "SalesQuantityTotal": 22020
+  },
+  {
+    "SalesQuantityLastMonth": 18390,
+    "SalesQuantityLastYear": 25943,
+    "SalesQuantityTotal": 6951
+  },
+  {
+    "SalesQuantityLastMonth": 4710,
+    "SalesQuantityLastYear": 27996,
+    "SalesQuantityTotal": 13847
+  },
+  {
+    "SalesQuantityLastMonth": 19083,
+    "SalesQuantityLastYear": 16857,
+    "SalesQuantityTotal": 17657
+  },
+  {
+    "SalesQuantityLastMonth": 32202,
+    "SalesQuantityLastYear": 24071,
+    "SalesQuantityTotal": 18859
+  },
+  {
+    "SalesQuantityLastMonth": 27045,
+    "SalesQuantityLastYear": 6343,
+    "SalesQuantityTotal": 6339
+  },
+  {
+    "SalesQuantityLastMonth": 15288,
+    "SalesQuantityLastYear": 15587,
+    "SalesQuantityTotal": 27295
+  },
+  {
+    "SalesQuantityLastMonth": 898,
+    "SalesQuantityLastYear": 9275,
+    "SalesQuantityTotal": 19248
+  },
+  {
+    "SalesQuantityLastMonth": 10849,
+    "SalesQuantityLastYear": 19505,
+    "SalesQuantityTotal": 30977
+  },
+  {
+    "SalesQuantityLastMonth": 12034,
+    "SalesQuantityLastYear": 13869,
+    "SalesQuantityTotal": 4182
+  },
+  {
+    "SalesQuantityLastMonth": 13489,
+    "SalesQuantityLastYear": 13551,
+    "SalesQuantityTotal": 19025
+  },
+  {
+    "SalesQuantityLastMonth": 13768,
+    "SalesQuantityLastYear": 29690,
+    "SalesQuantityTotal": 16589
+  },
+  {
+    "SalesQuantityLastMonth": 26422,
+    "SalesQuantityLastYear": 14372,
+    "SalesQuantityTotal": 1382
+  },
+  {
+    "SalesQuantityLastMonth": 24467,
+    "SalesQuantityLastYear": 13205,
+    "SalesQuantityTotal": 28493
+  },
+  {
+    "SalesQuantityLastMonth": 31747,
+    "SalesQuantityLastYear": 15397,
+    "SalesQuantityTotal": 4002
+  },
+  {
+    "SalesQuantityLastMonth": 12020,
+    "SalesQuantityLastYear": 27979,
+    "SalesQuantityTotal": 32125
+  },
+  {
+    "SalesQuantityLastMonth": 2830,
+    "SalesQuantityLastYear": 19658,
+    "SalesQuantityTotal": 19201
+  },
+  {
+    "SalesQuantityLastMonth": 3004,
+    "SalesQuantityLastYear": 10378,
+    "SalesQuantityTotal": 13001
+  },
+  {
+    "SalesQuantityLastMonth": 31909,
+    "SalesQuantityLastYear": 15349,
+    "SalesQuantityTotal": 20213
+  },
+  {
+    "SalesQuantityLastMonth": 6500,
+    "SalesQuantityLastYear": 23217,
+    "SalesQuantityTotal": 31824
+  },
+  {
+    "SalesQuantityLastMonth": 7305,
+    "SalesQuantityLastYear": 3243,
+    "SalesQuantityTotal": 13730
+  },
+  {
+    "SalesQuantityLastMonth": 12233,
+    "SalesQuantityLastYear": 18907,
+    "SalesQuantityTotal": 5301
+  },
+  {
+    "SalesQuantityLastMonth": 1589,
+    "SalesQuantityLastYear": 13532,
+    "SalesQuantityTotal": 9421
+  },
+  {
+    "SalesQuantityLastMonth": 22518,
+    "SalesQuantityLastYear": 21634,
+    "SalesQuantityTotal": 1471
+  },
+  {
+    "SalesQuantityLastMonth": 9198,
+    "SalesQuantityLastYear": 28837,
+    "SalesQuantityTotal": 23522
+  },
+  {
+    "SalesQuantityLastMonth": 11870,
+    "SalesQuantityLastYear": 4364,
+    "SalesQuantityTotal": 27231
+  },
+  {
+    "SalesQuantityLastMonth": 25782,
+    "SalesQuantityLastYear": 19579,
+    "SalesQuantityTotal": 12676
+  },
+  {
+    "SalesQuantityLastMonth": 11294,
+    "SalesQuantityLastYear": 17292,
+    "SalesQuantityTotal": 27056
+  },
+  {
+    "SalesQuantityLastMonth": 10802,
+    "SalesQuantityLastYear": 8903,
+    "SalesQuantityTotal": 4780
+  },
+  {
+    "SalesQuantityLastMonth": 14626,
+    "SalesQuantityLastYear": 14596,
+    "SalesQuantityTotal": 29143
+  },
+  {
+    "SalesQuantityLastMonth": 20178,
+    "SalesQuantityLastYear": 23922,
+    "SalesQuantityTotal": 2325
+  },
+  {
+    "SalesQuantityLastMonth": 17418,
+    "SalesQuantityLastYear": 15018,
+    "SalesQuantityTotal": 19769
+  },
+  {
+    "SalesQuantityLastMonth": 29258,
+    "SalesQuantityLastYear": 31468,
+    "SalesQuantityTotal": 10687
+  },
+  {
+    "SalesQuantityLastMonth": 14702,
+    "SalesQuantityLastYear": 22960,
+    "SalesQuantityTotal": 13079
+  },
+  {
+    "SalesQuantityLastMonth": 30792,
+    "SalesQuantityLastYear": 17986,
+    "SalesQuantityTotal": 9603
+  },
+  {
+    "SalesQuantityLastMonth": 1436,
+    "SalesQuantityLastYear": 16931,
+    "SalesQuantityTotal": 3735
+  },
+  {
+    "SalesQuantityLastMonth": 16105,
+    "SalesQuantityLastYear": 12036,
+    "SalesQuantityTotal": 30202
+  },
+  {
+    "SalesQuantityLastMonth": 12501,
+    "SalesQuantityLastYear": 27396,
+    "SalesQuantityTotal": 24716
+  },
+  {
+    "SalesQuantityLastMonth": 29206,
+    "SalesQuantityLastYear": 17945,
+    "SalesQuantityTotal": 8360
+  },
+  {
+    "SalesQuantityLastMonth": 29166,
+    "SalesQuantityLastYear": 29576,
+    "SalesQuantityTotal": 31673
+  },
+  {
+    "SalesQuantityLastMonth": 27592,
+    "SalesQuantityLastYear": 26142,
+    "SalesQuantityTotal": 1711
+  },
+  {
+    "SalesQuantityLastMonth": 10316,
+    "SalesQuantityLastYear": 24099,
+    "SalesQuantityTotal": 24548
+  },
+  {
+    "SalesQuantityLastMonth": 18875,
+    "SalesQuantityLastYear": 8759,
+    "SalesQuantityTotal": 24869
+  },
+  {
+    "SalesQuantityLastMonth": 7874,
+    "SalesQuantityLastYear": 28530,
+    "SalesQuantityTotal": 15351
+  },
+  {
+    "SalesQuantityLastMonth": 5132,
+    "SalesQuantityLastYear": 22483,
+    "SalesQuantityTotal": 30982
+  },
+  {
+    "SalesQuantityLastMonth": 19267,
+    "SalesQuantityLastYear": 9325,
+    "SalesQuantityTotal": 1455
+  },
+  {
+    "SalesQuantityLastMonth": 7722,
+    "SalesQuantityLastYear": 20616,
+    "SalesQuantityTotal": 6239
+  },
+  {
+    "SalesQuantityLastMonth": 11117,
+    "SalesQuantityLastYear": 13294,
+    "SalesQuantityTotal": 8397
+  },
+  {
+    "SalesQuantityLastMonth": 26488,
+    "SalesQuantityLastYear": 22592,
+    "SalesQuantityTotal": 22789
+  },
+  {
+    "SalesQuantityLastMonth": 18269,
+    "SalesQuantityLastYear": 18580,
+    "SalesQuantityTotal": 2079
+  },
+  {
+    "SalesQuantityLastMonth": 21153,
+    "SalesQuantityLastYear": 2558,
+    "SalesQuantityTotal": 13878
+  },
+  {
+    "SalesQuantityLastMonth": 15797,
+    "SalesQuantityLastYear": 28136,
+    "SalesQuantityTotal": 19705
+  },
+  {
+    "SalesQuantityLastMonth": 29336,
+    "SalesQuantityLastYear": 7926,
+    "SalesQuantityTotal": 18272
+  },
+  {
+    "SalesQuantityLastMonth": 9656,
+    "SalesQuantityLastYear": 30824,
+    "SalesQuantityTotal": 32651
+  },
+  {
+    "SalesQuantityLastMonth": 11634,
+    "SalesQuantityLastYear": 16274,
+    "SalesQuantityTotal": 15106
+  },
+  {
+    "SalesQuantityLastMonth": 7625,
+    "SalesQuantityLastYear": 5169,
+    "SalesQuantityTotal": 26501
+  },
+  {
+    "SalesQuantityLastMonth": 10194,
+    "SalesQuantityLastYear": 8876,
+    "SalesQuantityTotal": 7161
+  },
+  {
+    "SalesQuantityLastMonth": 21699,
+    "SalesQuantityLastYear": 9216,
+    "SalesQuantityTotal": 25690
+  },
+  {
+    "SalesQuantityLastMonth": 16730,
+    "SalesQuantityLastYear": 13104,
+    "SalesQuantityTotal": 26082
+  },
+  {
+    "SalesQuantityLastMonth": 16595,
+    "SalesQuantityLastYear": 1763,
+    "SalesQuantityTotal": 2014
+  },
+  {
+    "SalesQuantityLastMonth": 862,
+    "SalesQuantityLastYear": 22947,
+    "SalesQuantityTotal": 23045
+  },
+  {
+    "SalesQuantityLastMonth": 19488,
+    "SalesQuantityLastYear": 26227,
+    "SalesQuantityTotal": 1729
+  },
+  {
+    "SalesQuantityLastMonth": 22102,
+    "SalesQuantityLastYear": 27115,
+    "SalesQuantityTotal": 11533
+  },
+  {
+    "SalesQuantityLastMonth": 22699,
+    "SalesQuantityLastYear": 15950,
+    "SalesQuantityTotal": 30834
+  },
+  {
+    "SalesQuantityLastMonth": 22560,
+    "SalesQuantityLastYear": 6355,
+    "SalesQuantityTotal": 32251
+  },
+  {
+    "SalesQuantityLastMonth": 5062,
+    "SalesQuantityLastYear": 24891,
+    "SalesQuantityTotal": 11637
+  },
+  {
+    "SalesQuantityLastMonth": 15222,
+    "SalesQuantityLastYear": 17876,
+    "SalesQuantityTotal": 24535
+  },
+  {
+    "SalesQuantityLastMonth": 8641,
+    "SalesQuantityLastYear": 25971,
+    "SalesQuantityTotal": 14248
+  },
+  {
+    "SalesQuantityLastMonth": 13627,
+    "SalesQuantityLastYear": 4918,
+    "SalesQuantityTotal": 22875
+  },
+  {
+    "SalesQuantityLastMonth": 11661,
+    "SalesQuantityLastYear": 3509,
+    "SalesQuantityTotal": 24098
+  },
+  {
+    "SalesQuantityLastMonth": 16765,
+    "SalesQuantityLastYear": 7897,
+    "SalesQuantityTotal": 30218
+  },
+  {
+    "SalesQuantityLastMonth": 9960,
+    "SalesQuantityLastYear": 21356,
+    "SalesQuantityTotal": 21767
+  },
+  {
+    "SalesQuantityLastMonth": 22814,
+    "SalesQuantityLastYear": 13633,
+    "SalesQuantityTotal": 18290
+  },
+  {
+    "SalesQuantityLastMonth": 10821,
+    "SalesQuantityLastYear": 15223,
+    "SalesQuantityTotal": 20263
+  },
+  {
+    "SalesQuantityLastMonth": 7476,
+    "SalesQuantityLastYear": 23978,
+    "SalesQuantityTotal": 23632
+  },
+  {
+    "SalesQuantityLastMonth": 19424,
+    "SalesQuantityLastYear": 19590,
+    "SalesQuantityTotal": 17247
+  },
+  {
+    "SalesQuantityLastMonth": 8297,
+    "SalesQuantityLastYear": 1447,
+    "SalesQuantityTotal": 5214
+  },
+  {
+    "SalesQuantityLastMonth": 19308,
+    "SalesQuantityLastYear": 16906,
+    "SalesQuantityTotal": 14561
+  },
+  {
+    "SalesQuantityLastMonth": 5495,
+    "SalesQuantityLastYear": 12856,
+    "SalesQuantityTotal": 29578
+  },
+  {
+    "SalesQuantityLastMonth": 31995,
+    "SalesQuantityLastYear": 15709,
+    "SalesQuantityTotal": 4933
+  },
+  {
+    "SalesQuantityLastMonth": 19445,
+    "SalesQuantityLastYear": 10324,
+    "SalesQuantityTotal": 31953
+  },
+  {
+    "SalesQuantityLastMonth": 23193,
+    "SalesQuantityLastYear": 25109,
+    "SalesQuantityTotal": 29163
+  },
+  {
+    "SalesQuantityLastMonth": 11150,
+    "SalesQuantityLastYear": 16063,
+    "SalesQuantityTotal": 2333
+  },
+  {
+    "SalesQuantityLastMonth": 30771,
+    "SalesQuantityLastYear": 29700,
+    "SalesQuantityTotal": 7310
+  },
+  {
+    "SalesQuantityLastMonth": 9568,
+    "SalesQuantityLastYear": 21146,
+    "SalesQuantityTotal": 18750
+  },
+  {
+    "SalesQuantityLastMonth": 23037,
+    "SalesQuantityLastYear": 22762,
+    "SalesQuantityTotal": 18262
+  },
+  {
+    "SalesQuantityLastMonth": 3540,
+    "SalesQuantityLastYear": 2318,
+    "SalesQuantityTotal": 19139
+  },
+  {
+    "SalesQuantityLastMonth": 30225,
+    "SalesQuantityLastYear": 23758,
+    "SalesQuantityTotal": 21379
+  },
+  {
+    "SalesQuantityLastMonth": 28167,
+    "SalesQuantityLastYear": 24283,
+    "SalesQuantityTotal": 16527
+  },
+  {
+    "SalesQuantityLastMonth": 10213,
+    "SalesQuantityLastYear": 16822,
+    "SalesQuantityTotal": 19062
+  },
+  {
+    "SalesQuantityLastMonth": 27880,
+    "SalesQuantityLastYear": 1074,
+    "SalesQuantityTotal": 29920
+  },
+  {
+    "SalesQuantityLastMonth": 24793,
+    "SalesQuantityLastYear": 695,
+    "SalesQuantityTotal": 27082
+  },
+  {
+    "SalesQuantityLastMonth": 23195,
+    "SalesQuantityLastYear": 6352,
+    "SalesQuantityTotal": 25002
+  },
+  {
+    "SalesQuantityLastMonth": 31881,
+    "SalesQuantityLastYear": 7210,
+    "SalesQuantityTotal": 22375
+  },
+  {
+    "SalesQuantityLastMonth": 9852,
+    "SalesQuantityLastYear": 32294,
+    "SalesQuantityTotal": 26182
+  },
+  {
+    "SalesQuantityLastMonth": 11346,
+    "SalesQuantityLastYear": 15226,
+    "SalesQuantityTotal": 22862
+  },
+  {
+    "SalesQuantityLastMonth": 21294,
+    "SalesQuantityLastYear": 6375,
+    "SalesQuantityTotal": 17382
+  },
+  {
+    "SalesQuantityLastMonth": 23952,
+    "SalesQuantityLastYear": 1983,
+    "SalesQuantityTotal": 3986
+  },
+  {
+    "SalesQuantityLastMonth": 1251,
+    "SalesQuantityLastYear": 32304,
+    "SalesQuantityTotal": 24888
+  },
+  {
+    "SalesQuantityLastMonth": 14204,
+    "SalesQuantityLastYear": 10894,
+    "SalesQuantityTotal": 12197
+  },
+  {
+    "SalesQuantityLastMonth": 31790,
+    "SalesQuantityLastYear": 20328,
+    "SalesQuantityTotal": 21598
+  },
+  {
+    "SalesQuantityLastMonth": 22322,
+    "SalesQuantityLastYear": 23947,
+    "SalesQuantityTotal": 13113
+  },
+  {
+    "SalesQuantityLastMonth": 21086,
+    "SalesQuantityLastYear": 6580,
+    "SalesQuantityTotal": 3205
+  },
+  {
+    "SalesQuantityLastMonth": 12184,
+    "SalesQuantityLastYear": 8105,
+    "SalesQuantityTotal": 14162
+  },
+  {
+    "SalesQuantityLastMonth": 21853,
+    "SalesQuantityLastYear": 2240,
+    "SalesQuantityTotal": 13192
+  },
+  {
+    "SalesQuantityLastMonth": 1556,
+    "SalesQuantityLastYear": 20118,
+    "SalesQuantityTotal": 5506
+  },
+  {
+    "SalesQuantityLastMonth": 23119,
+    "SalesQuantityLastYear": 6841,
+    "SalesQuantityTotal": 4426
+  },
+  {
+    "SalesQuantityLastMonth": 16459,
+    "SalesQuantityLastYear": 6223,
+    "SalesQuantityTotal": 23065
+  },
+  {
+    "SalesQuantityLastMonth": 1261,
+    "SalesQuantityLastYear": 23352,
+    "SalesQuantityTotal": 22199
+  },
+  {
+    "SalesQuantityLastMonth": 19485,
+    "SalesQuantityLastYear": 25465,
+    "SalesQuantityTotal": 7249
+  },
+  {
+    "SalesQuantityLastMonth": 25774,
+    "SalesQuantityLastYear": 11737,
+    "SalesQuantityTotal": 30422
+  },
+  {
+    "SalesQuantityLastMonth": 760,
+    "SalesQuantityLastYear": 6110,
+    "SalesQuantityTotal": 22515
+  },
+  {
+    "SalesQuantityLastMonth": 16982,
+    "SalesQuantityLastYear": 796,
+    "SalesQuantityTotal": 20393
+  },
+  {
+    "SalesQuantityLastMonth": 15853,
+    "SalesQuantityLastYear": 464,
+    "SalesQuantityTotal": 32563
+  },
+  {
+    "SalesQuantityLastMonth": 14433,
+    "SalesQuantityLastYear": 12024,
+    "SalesQuantityTotal": 26646
+  },
+  {
+    "SalesQuantityLastMonth": 18296,
+    "SalesQuantityLastYear": 14900,
+    "SalesQuantityTotal": 31779
+  },
+  {
+    "SalesQuantityLastMonth": 6698,
+    "SalesQuantityLastYear": 31004,
+    "SalesQuantityTotal": 5026
+  },
+  {
+    "SalesQuantityLastMonth": 20542,
+    "SalesQuantityLastYear": 5612,
+    "SalesQuantityTotal": 27619
+  },
+  {
+    "SalesQuantityLastMonth": 4124,
+    "SalesQuantityLastYear": 15631,
+    "SalesQuantityTotal": 8202
+  },
+  {
+    "SalesQuantityLastMonth": 21316,
+    "SalesQuantityLastYear": 851,
+    "SalesQuantityTotal": 23682
+  },
+  {
+    "SalesQuantityLastMonth": 1857,
+    "SalesQuantityLastYear": 13882,
+    "SalesQuantityTotal": 28723
+  },
+  {
+    "SalesQuantityLastMonth": 19178,
+    "SalesQuantityLastYear": 29136,
+    "SalesQuantityTotal": 16507
+  },
+  {
+    "SalesQuantityLastMonth": 21348,
+    "SalesQuantityLastYear": 28897,
+    "SalesQuantityTotal": 23444
+  },
+  {
+    "SalesQuantityLastMonth": 17342,
+    "SalesQuantityLastYear": 19577,
+    "SalesQuantityTotal": 17880
+  },
+  {
+    "SalesQuantityLastMonth": 7521,
+    "SalesQuantityLastYear": 6632,
+    "SalesQuantityTotal": 4631
+  },
+  {
+    "SalesQuantityLastMonth": 2282,
+    "SalesQuantityLastYear": 26967,
+    "SalesQuantityTotal": 29187
+  },
+  {
+    "SalesQuantityLastMonth": 15733,
+    "SalesQuantityLastYear": 8707,
+    "SalesQuantityTotal": 23187
+  },
+  {
+    "SalesQuantityLastMonth": 13042,
+    "SalesQuantityLastYear": 27229,
+    "SalesQuantityTotal": 2479
+  },
+  {
+    "SalesQuantityLastMonth": 17075,
+    "SalesQuantityLastYear": 23962,
+    "SalesQuantityTotal": 25066
+  },
+  {
+    "SalesQuantityLastMonth": 5908,
+    "SalesQuantityLastYear": 2241,
+    "SalesQuantityTotal": 7140
+  },
+  {
+    "SalesQuantityLastMonth": 9036,
+    "SalesQuantityLastYear": 12247,
+    "SalesQuantityTotal": 19797
+  },
+  {
+    "SalesQuantityLastMonth": 24939,
+    "SalesQuantityLastYear": 31375,
+    "SalesQuantityTotal": 18936
+  },
+  {
+    "SalesQuantityLastMonth": 18477,
+    "SalesQuantityLastYear": 25613,
+    "SalesQuantityTotal": 30277
+  },
+  {
+    "SalesQuantityLastMonth": 2044,
+    "SalesQuantityLastYear": 3137,
+    "SalesQuantityTotal": 16022
+  },
+  {
+    "SalesQuantityLastMonth": 13917,
+    "SalesQuantityLastYear": 18216,
+    "SalesQuantityTotal": 23841
+  },
+  {
+    "SalesQuantityLastMonth": 13276,
+    "SalesQuantityLastYear": 23244,
+    "SalesQuantityTotal": 2098
+  },
+  {
+    "SalesQuantityLastMonth": 21432,
+    "SalesQuantityLastYear": 11782,
+    "SalesQuantityTotal": 5839
+  },
+  {
+    "SalesQuantityLastMonth": 24912,
+    "SalesQuantityLastYear": 750,
+    "SalesQuantityTotal": 21582
+  },
+  {
+    "SalesQuantityLastMonth": 26500,
+    "SalesQuantityLastYear": 2359,
+    "SalesQuantityTotal": 5429
+  },
+  {
+    "SalesQuantityLastMonth": 24208,
+    "SalesQuantityLastYear": 15696,
+    "SalesQuantityTotal": 26912
+  },
+  {
+    "SalesQuantityLastMonth": 16560,
+    "SalesQuantityLastYear": 8561,
+    "SalesQuantityTotal": 7585
+  },
+  {
+    "SalesQuantityLastMonth": 30851,
+    "SalesQuantityLastYear": 15350,
+    "SalesQuantityTotal": 8024
+  },
+  {
+    "SalesQuantityLastMonth": 18462,
+    "SalesQuantityLastYear": 16572,
+    "SalesQuantityTotal": 1609
+  },
+  {
+    "SalesQuantityLastMonth": 31677,
+    "SalesQuantityLastYear": 13944,
+    "SalesQuantityTotal": 15155
+  },
+  {
+    "SalesQuantityLastMonth": 20306,
+    "SalesQuantityLastYear": 29788,
+    "SalesQuantityTotal": 13567
+  },
+  {
+    "SalesQuantityLastMonth": 17030,
+    "SalesQuantityLastYear": 26001,
+    "SalesQuantityTotal": 26087
+  },
+  {
+    "SalesQuantityLastMonth": 15432,
+    "SalesQuantityLastYear": 399,
+    "SalesQuantityTotal": 18475
+  },
+  {
+    "SalesQuantityLastMonth": 30022,
+    "SalesQuantityLastYear": 6664,
+    "SalesQuantityTotal": 10048
+  },
+  {
+    "SalesQuantityLastMonth": 32282,
+    "SalesQuantityLastYear": 24745,
+    "SalesQuantityTotal": 23510
+  },
+  {
+    "SalesQuantityLastMonth": 25104,
+    "SalesQuantityLastYear": 10604,
+    "SalesQuantityTotal": 10879
+  },
+  {
+    "SalesQuantityLastMonth": 8993,
+    "SalesQuantityLastYear": 32229,
+    "SalesQuantityTotal": 10886
+  },
+  {
+    "SalesQuantityLastMonth": 25758,
+    "SalesQuantityLastYear": 30693,
+    "SalesQuantityTotal": 5037
+  },
+  {
+    "SalesQuantityLastMonth": 18293,
+    "SalesQuantityLastYear": 20078,
+    "SalesQuantityTotal": 12872
+  },
+  {
+    "SalesQuantityLastMonth": 24662,
+    "SalesQuantityLastYear": 10013,
+    "SalesQuantityTotal": 13212
+  },
+  {
+    "SalesQuantityLastMonth": 24562,
+    "SalesQuantityLastYear": 9725,
+    "SalesQuantityTotal": 9125
+  },
+  {
+    "SalesQuantityLastMonth": 27254,
+    "SalesQuantityLastYear": 30889,
+    "SalesQuantityTotal": 520
+  },
+  {
+    "SalesQuantityLastMonth": 26768,
+    "SalesQuantityLastYear": 30853,
+    "SalesQuantityTotal": 11307
+  },
+  {
+    "SalesQuantityLastMonth": 1177,
+    "SalesQuantityLastYear": 3453,
+    "SalesQuantityTotal": 23673
+  },
+  {
+    "SalesQuantityLastMonth": 30744,
+    "SalesQuantityLastYear": 18948,
+    "SalesQuantityTotal": 24595
+  },
+  {
+    "SalesQuantityLastMonth": 10867,
+    "SalesQuantityLastYear": 6829,
+    "SalesQuantityTotal": 3596
+  },
+  {
+    "SalesQuantityLastMonth": 4531,
+    "SalesQuantityLastYear": 11568,
+    "SalesQuantityTotal": 30326
+  },
+  {
+    "SalesQuantityLastMonth": 8210,
+    "SalesQuantityLastYear": 6400,
+    "SalesQuantityTotal": 499
+  },
+  {
+    "SalesQuantityLastMonth": 13016,
+    "SalesQuantityLastYear": 2364,
+    "SalesQuantityTotal": 10650
+  },
+  {
+    "SalesQuantityLastMonth": 14873,
+    "SalesQuantityLastYear": 31164,
+    "SalesQuantityTotal": 14769
+  },
+  {
+    "SalesQuantityLastMonth": 17896,
+    "SalesQuantityLastYear": 11488,
+    "SalesQuantityTotal": 18254
+  },
+  {
+    "SalesQuantityLastMonth": 26428,
+    "SalesQuantityLastYear": 15275,
+    "SalesQuantityTotal": 14641
+  },
+  {
+    "SalesQuantityLastMonth": 30617,
+    "SalesQuantityLastYear": 12483,
+    "SalesQuantityTotal": 10615
+  },
+  {
+    "SalesQuantityLastMonth": 14992,
+    "SalesQuantityLastYear": 1632,
+    "SalesQuantityTotal": 27072
+  },
+  {
+    "SalesQuantityLastMonth": 9965,
+    "SalesQuantityLastYear": 7276,
+    "SalesQuantityTotal": 26002
+  },
+  {
+    "SalesQuantityLastMonth": 18857,
+    "SalesQuantityLastYear": 26465,
+    "SalesQuantityTotal": 9467
+  },
+  {
+    "SalesQuantityLastMonth": 21322,
+    "SalesQuantityLastYear": 5738,
+    "SalesQuantityTotal": 1899
+  },
+  {
+    "SalesQuantityLastMonth": 27004,
+    "SalesQuantityLastYear": 30667,
+    "SalesQuantityTotal": 3581
+  },
+  {
+    "SalesQuantityLastMonth": 8881,
+    "SalesQuantityLastYear": 14494,
+    "SalesQuantityTotal": 28780
+  },
+  {
+    "SalesQuantityLastMonth": 22637,
+    "SalesQuantityLastYear": 12150,
+    "SalesQuantityTotal": 32456
+  },
+  {
+    "SalesQuantityLastMonth": 26669,
+    "SalesQuantityLastYear": 19175,
+    "SalesQuantityTotal": 18325
+  },
+  {
+    "SalesQuantityLastMonth": 12440,
+    "SalesQuantityLastYear": 12745,
+    "SalesQuantityTotal": 25288
+  },
+  {
+    "SalesQuantityLastMonth": 9575,
+    "SalesQuantityLastYear": 28994,
+    "SalesQuantityTotal": 8979
+  },
+  {
+    "SalesQuantityLastMonth": 23881,
+    "SalesQuantityLastYear": 26683,
+    "SalesQuantityTotal": 28950
+  },
+  {
+    "SalesQuantityLastMonth": 13905,
+    "SalesQuantityLastYear": 29202,
+    "SalesQuantityTotal": 10706
+  },
+  {
+    "SalesQuantityLastMonth": 5996,
+    "SalesQuantityLastYear": 9130,
+    "SalesQuantityTotal": 24560
+  },
+  {
+    "SalesQuantityLastMonth": 21176,
+    "SalesQuantityLastYear": 21952,
+    "SalesQuantityTotal": 11362
+  },
+  {
+    "SalesQuantityLastMonth": 26215,
+    "SalesQuantityLastYear": 12414,
+    "SalesQuantityTotal": 9845
+  },
+  {
+    "SalesQuantityLastMonth": 24018,
+    "SalesQuantityLastYear": 28528,
+    "SalesQuantityTotal": 11950
+  },
+  {
+    "SalesQuantityLastMonth": 6015,
+    "SalesQuantityLastYear": 16379,
+    "SalesQuantityTotal": 16470
+  },
+  {
+    "SalesQuantityLastMonth": 20745,
+    "SalesQuantityLastYear": 3098,
+    "SalesQuantityTotal": 1943
+  },
+  {
+    "SalesQuantityLastMonth": 659,
+    "SalesQuantityLastYear": 23557,
+    "SalesQuantityTotal": 4491
+  },
+  {
+    "SalesQuantityLastMonth": 27603,
+    "SalesQuantityLastYear": 13512,
+    "SalesQuantityTotal": 26337
+  },
+  {
+    "SalesQuantityLastMonth": 17145,
+    "SalesQuantityLastYear": 13241,
+    "SalesQuantityTotal": 30087
+  },
+  {
+    "SalesQuantityLastMonth": 30208,
+    "SalesQuantityLastYear": 11822,
+    "SalesQuantityTotal": 5323
+  },
+  {
+    "SalesQuantityLastMonth": 30822,
+    "SalesQuantityLastYear": 17017,
+    "SalesQuantityTotal": 7146
+  },
+  {
+    "SalesQuantityLastMonth": 8754,
+    "SalesQuantityLastYear": 19905,
+    "SalesQuantityTotal": 30844
+  },
+  {
+    "SalesQuantityLastMonth": 23742,
+    "SalesQuantityLastYear": 10759,
+    "SalesQuantityTotal": 15562
+  },
+  {
+    "SalesQuantityLastMonth": 25727,
+    "SalesQuantityLastYear": 6166,
+    "SalesQuantityTotal": 2851
+  },
+  {
+    "SalesQuantityLastMonth": 21495,
+    "SalesQuantityLastYear": 29527,
+    "SalesQuantityTotal": 30393
+  },
+  {
+    "SalesQuantityLastMonth": 23234,
+    "SalesQuantityLastYear": 25367,
+    "SalesQuantityTotal": 7666
+  },
+  {
+    "SalesQuantityLastMonth": 6193,
+    "SalesQuantityLastYear": 27262,
+    "SalesQuantityTotal": 13502
+  },
+  {
+    "SalesQuantityLastMonth": 5901,
+    "SalesQuantityLastYear": 6470,
+    "SalesQuantityTotal": 11160
+  },
+  {
+    "SalesQuantityLastMonth": 28385,
+    "SalesQuantityLastYear": 30991,
+    "SalesQuantityTotal": 4286
+  },
+  {
+    "SalesQuantityLastMonth": 8967,
+    "SalesQuantityLastYear": 14042,
+    "SalesQuantityTotal": 28775
+  },
+  {
+    "SalesQuantityLastMonth": 847,
+    "SalesQuantityLastYear": 4777,
+    "SalesQuantityTotal": 25964
+  },
+  {
+    "SalesQuantityLastMonth": 11766,
+    "SalesQuantityLastYear": 5060,
+    "SalesQuantityTotal": 7840
+  },
+  {
+    "SalesQuantityLastMonth": 7881,
+    "SalesQuantityLastYear": 22668,
+    "SalesQuantityTotal": 12123
+  },
+  {
+    "SalesQuantityLastMonth": 17864,
+    "SalesQuantityLastYear": 30598,
+    "SalesQuantityTotal": 31092
+  },
+  {
+    "SalesQuantityLastMonth": 25007,
+    "SalesQuantityLastYear": 24784,
+    "SalesQuantityTotal": 29577
+  },
+  {
+    "SalesQuantityLastMonth": 19520,
+    "SalesQuantityLastYear": 22774,
+    "SalesQuantityTotal": 4975
+  },
+  {
+    "SalesQuantityLastMonth": 22797,
+    "SalesQuantityLastYear": 5885,
+    "SalesQuantityTotal": 11590
+  },
+  {
+    "SalesQuantityLastMonth": 3815,
+    "SalesQuantityLastYear": 3771,
+    "SalesQuantityTotal": 1501
+  },
+  {
+    "SalesQuantityLastMonth": 24728,
+    "SalesQuantityLastYear": 30361,
+    "SalesQuantityTotal": 24287
+  },
+  {
+    "SalesQuantityLastMonth": 32621,
+    "SalesQuantityLastYear": 19712,
+    "SalesQuantityTotal": 2047
+  },
+  {
+    "SalesQuantityLastMonth": 1776,
+    "SalesQuantityLastYear": 29720,
+    "SalesQuantityTotal": 5575
+  },
+  {
+    "SalesQuantityLastMonth": 30841,
+    "SalesQuantityLastYear": 28299,
+    "SalesQuantityTotal": 18017
+  },
+  {
+    "SalesQuantityLastMonth": 25588,
+    "SalesQuantityLastYear": 15650,
+    "SalesQuantityTotal": 17742
+  },
+  {
+    "SalesQuantityLastMonth": 11101,
+    "SalesQuantityLastYear": 16292,
+    "SalesQuantityTotal": 14634
+  },
+  {
+    "SalesQuantityLastMonth": 3566,
+    "SalesQuantityLastYear": 28405,
+    "SalesQuantityTotal": 8070
+  },
+  {
+    "SalesQuantityLastMonth": 8145,
+    "SalesQuantityLastYear": 18920,
+    "SalesQuantityTotal": 3856
+  },
+  {
+    "SalesQuantityLastMonth": 1670,
+    "SalesQuantityLastYear": 17533,
+    "SalesQuantityTotal": 18961
+  },
+  {
+    "SalesQuantityLastMonth": 9322,
+    "SalesQuantityLastYear": 6233,
+    "SalesQuantityTotal": 27730
+  },
+  {
+    "SalesQuantityLastMonth": 25955,
+    "SalesQuantityLastYear": 22404,
+    "SalesQuantityTotal": 8251
+  },
+  {
+    "SalesQuantityLastMonth": 15879,
+    "SalesQuantityLastYear": 10287,
+    "SalesQuantityTotal": 22815
+  },
+  {
+    "SalesQuantityLastMonth": 22160,
+    "SalesQuantityLastYear": 16344,
+    "SalesQuantityTotal": 1133
+  },
+  {
+    "SalesQuantityLastMonth": 25773,
+    "SalesQuantityLastYear": 26934,
+    "SalesQuantityTotal": 29253
+  },
+  {
+    "SalesQuantityLastMonth": 11816,
+    "SalesQuantityLastYear": 26699,
+    "SalesQuantityTotal": 7380
+  },
+  {
+    "SalesQuantityLastMonth": 20001,
+    "SalesQuantityLastYear": 11952,
+    "SalesQuantityTotal": 22361
+  },
+  {
+    "SalesQuantityLastMonth": 29723,
+    "SalesQuantityLastYear": 505,
+    "SalesQuantityTotal": 8133
+  },
+  {
+    "SalesQuantityLastMonth": 26198,
+    "SalesQuantityLastYear": 16838,
+    "SalesQuantityTotal": 11696
+  },
+  {
+    "SalesQuantityLastMonth": 20686,
+    "SalesQuantityLastYear": 31207,
+    "SalesQuantityTotal": 2434
+  },
+  {
+    "SalesQuantityLastMonth": 15854,
+    "SalesQuantityLastYear": 25221,
+    "SalesQuantityTotal": 10613
+  },
+  {
+    "SalesQuantityLastMonth": 5142,
+    "SalesQuantityLastYear": 10021,
+    "SalesQuantityTotal": 22029
+  },
+  {
+    "SalesQuantityLastMonth": 32538,
+    "SalesQuantityLastYear": 7711,
+    "SalesQuantityTotal": 6055
+  },
+  {
+    "SalesQuantityLastMonth": 26244,
+    "SalesQuantityLastYear": 22222,
+    "SalesQuantityTotal": 12317
+  },
+  {
+    "SalesQuantityLastMonth": 7192,
+    "SalesQuantityLastYear": 15140,
+    "SalesQuantityTotal": 24754
+  },
+  {
+    "SalesQuantityLastMonth": 7371,
+    "SalesQuantityLastYear": 22621,
+    "SalesQuantityTotal": 23602
+  },
+  {
+    "SalesQuantityLastMonth": 11837,
+    "SalesQuantityLastYear": 22089,
+    "SalesQuantityTotal": 27049
+  },
+  {
+    "SalesQuantityLastMonth": 5625,
+    "SalesQuantityLastYear": 28999,
+    "SalesQuantityTotal": 22154
+  },
+  {
+    "SalesQuantityLastMonth": 373,
+    "SalesQuantityLastYear": 10385,
+    "SalesQuantityTotal": 31809
+  },
+  {
+    "SalesQuantityLastMonth": 31358,
+    "SalesQuantityLastYear": 24376,
+    "SalesQuantityTotal": 23001
+  },
+  {
+    "SalesQuantityLastMonth": 6561,
+    "SalesQuantityLastYear": 23890,
+    "SalesQuantityTotal": 10159
+  },
+  {
+    "SalesQuantityLastMonth": 15416,
+    "SalesQuantityLastYear": 22047,
+    "SalesQuantityTotal": 23358
+  },
+  {
+    "SalesQuantityLastMonth": 2050,
+    "SalesQuantityLastYear": 4926,
+    "SalesQuantityTotal": 7609
+  },
+  {
+    "SalesQuantityLastMonth": 12545,
+    "SalesQuantityLastYear": 6152,
+    "SalesQuantityTotal": 28884
+  },
+  {
+    "SalesQuantityLastMonth": 7757,
+    "SalesQuantityLastYear": 19099,
+    "SalesQuantityTotal": 19261
+  },
+  {
+    "SalesQuantityLastMonth": 1954,
+    "SalesQuantityLastYear": 19709,
+    "SalesQuantityTotal": 13571
+  },
+  {
+    "SalesQuantityLastMonth": 8841,
+    "SalesQuantityLastYear": 11599,
+    "SalesQuantityTotal": 4273
+  },
+  {
+    "SalesQuantityLastMonth": 3388,
+    "SalesQuantityLastYear": 29461,
+    "SalesQuantityTotal": 5243
+  },
+  {
+    "SalesQuantityLastMonth": 8910,
+    "SalesQuantityLastYear": 16764,
+    "SalesQuantityTotal": 9903
+  },
+  {
+    "SalesQuantityLastMonth": 985,
+    "SalesQuantityLastYear": 9120,
+    "SalesQuantityTotal": 21440
+  },
+  {
+    "SalesQuantityLastMonth": 2124,
+    "SalesQuantityLastYear": 31989,
+    "SalesQuantityTotal": 7868
+  },
+  {
+    "SalesQuantityLastMonth": 21195,
+    "SalesQuantityLastYear": 29801,
+    "SalesQuantityTotal": 32491
+  },
+  {
+    "SalesQuantityLastMonth": 2962,
+    "SalesQuantityLastYear": 16781,
+    "SalesQuantityTotal": 20826
+  },
+  {
+    "SalesQuantityLastMonth": 18931,
+    "SalesQuantityLastYear": 4483,
+    "SalesQuantityTotal": 9799
+  },
+  {
+    "SalesQuantityLastMonth": 21152,
+    "SalesQuantityLastYear": 9508,
+    "SalesQuantityTotal": 21498
+  },
+  {
+    "SalesQuantityLastMonth": 3311,
+    "SalesQuantityLastYear": 4558,
+    "SalesQuantityTotal": 23891
+  },
+  {
+    "SalesQuantityLastMonth": 30110,
+    "SalesQuantityLastYear": 11905,
+    "SalesQuantityTotal": 4067
+  },
+  {
+    "SalesQuantityLastMonth": 15790,
+    "SalesQuantityLastYear": 11657,
+    "SalesQuantityTotal": 2544
+  },
+  {
+    "SalesQuantityLastMonth": 20758,
+    "SalesQuantityLastYear": 13465,
+    "SalesQuantityTotal": 10428
+  },
+  {
+    "SalesQuantityLastMonth": 13393,
+    "SalesQuantityLastYear": 24915,
+    "SalesQuantityTotal": 25794
+  },
+  {
+    "SalesQuantityLastMonth": 6880,
+    "SalesQuantityLastYear": 3681,
+    "SalesQuantityTotal": 27015
+  },
+  {
+    "SalesQuantityLastMonth": 8535,
+    "SalesQuantityLastYear": 11487,
+    "SalesQuantityTotal": 7644
+  },
+  {
+    "SalesQuantityLastMonth": 22227,
+    "SalesQuantityLastYear": 2230,
+    "SalesQuantityTotal": 17002
+  },
+  {
+    "SalesQuantityLastMonth": 29557,
+    "SalesQuantityLastYear": 20782,
+    "SalesQuantityTotal": 25435
+  },
+  {
+    "SalesQuantityLastMonth": 32557,
+    "SalesQuantityLastYear": 8565,
+    "SalesQuantityTotal": 28502
+  },
+  {
+    "SalesQuantityLastMonth": 20180,
+    "SalesQuantityLastYear": 13708,
+    "SalesQuantityTotal": 5601
+  },
+  {
+    "SalesQuantityLastMonth": 20776,
+    "SalesQuantityLastYear": 3642,
+    "SalesQuantityTotal": 29983
+  },
+  {
+    "SalesQuantityLastMonth": 17629,
+    "SalesQuantityLastYear": 19101,
+    "SalesQuantityTotal": 20588
+  },
+  {
+    "SalesQuantityLastMonth": 5579,
+    "SalesQuantityLastYear": 692,
+    "SalesQuantityTotal": 16592
+  },
+  {
+    "SalesQuantityLastMonth": 22319,
+    "SalesQuantityLastYear": 22337,
+    "SalesQuantityTotal": 10187
+  },
+  {
+    "SalesQuantityLastMonth": 28679,
+    "SalesQuantityLastYear": 25905,
+    "SalesQuantityTotal": 30371
+  },
+  {
+    "SalesQuantityLastMonth": 6374,
+    "SalesQuantityLastYear": 3928,
+    "SalesQuantityTotal": 15261
+  },
+  {
+    "SalesQuantityLastMonth": 13218,
+    "SalesQuantityLastYear": 24592,
+    "SalesQuantityTotal": 29681
+  },
+  {
+    "SalesQuantityLastMonth": 1920,
+    "SalesQuantityLastYear": 27670,
+    "SalesQuantityTotal": 7278
+  },
+  {
+    "SalesQuantityLastMonth": 27775,
+    "SalesQuantityLastYear": 18989,
+    "SalesQuantityTotal": 2755
+  },
+  {
+    "SalesQuantityLastMonth": 27170,
+    "SalesQuantityLastYear": 5155,
+    "SalesQuantityTotal": 14693
+  },
+  {
+    "SalesQuantityLastMonth": 25908,
+    "SalesQuantityLastYear": 19569,
+    "SalesQuantityTotal": 5273
+  },
+  {
+    "SalesQuantityLastMonth": 3493,
+    "SalesQuantityLastYear": 6466,
+    "SalesQuantityTotal": 32618
+  },
+  {
+    "SalesQuantityLastMonth": 8170,
+    "SalesQuantityLastYear": 20715,
+    "SalesQuantityTotal": 6163
+  },
+  {
+    "SalesQuantityLastMonth": 7208,
+    "SalesQuantityLastYear": 5890,
+    "SalesQuantityTotal": 12679
+  },
+  {
+    "SalesQuantityLastMonth": 27433,
+    "SalesQuantityLastYear": 19626,
+    "SalesQuantityTotal": 24871
+  },
+  {
+    "SalesQuantityLastMonth": 32298,
+    "SalesQuantityLastYear": 2441,
+    "SalesQuantityTotal": 20237
+  },
+  {
+    "SalesQuantityLastMonth": 4892,
+    "SalesQuantityLastYear": 13497,
+    "SalesQuantityTotal": 7217
+  },
+  {
+    "SalesQuantityLastMonth": 21884,
+    "SalesQuantityLastYear": 8687,
+    "SalesQuantityTotal": 19111
+  },
+  {
+    "SalesQuantityLastMonth": 8273,
+    "SalesQuantityLastYear": 2568,
+    "SalesQuantityTotal": 10607
+  },
+  {
+    "SalesQuantityLastMonth": 24094,
+    "SalesQuantityLastYear": 1854,
+    "SalesQuantityTotal": 3080
+  },
+  {
+    "SalesQuantityLastMonth": 6289,
+    "SalesQuantityLastYear": 11692,
+    "SalesQuantityTotal": 29124
+  },
+  {
+    "SalesQuantityLastMonth": 17046,
+    "SalesQuantityLastYear": 9366,
+    "SalesQuantityTotal": 20887
+  },
+  {
+    "SalesQuantityLastMonth": 27134,
+    "SalesQuantityLastYear": 32676,
+    "SalesQuantityTotal": 4078
+  },
+  {
+    "SalesQuantityLastMonth": 7347,
+    "SalesQuantityLastYear": 25271,
+    "SalesQuantityTotal": 18685
+  },
+  {
+    "SalesQuantityLastMonth": 22729,
+    "SalesQuantityLastYear": 28797,
+    "SalesQuantityTotal": 15712
+  },
+  {
+    "SalesQuantityLastMonth": 493,
+    "SalesQuantityLastYear": 20419,
+    "SalesQuantityTotal": 3160
+  },
+  {
+    "SalesQuantityLastMonth": 19459,
+    "SalesQuantityLastYear": 569,
+    "SalesQuantityTotal": 7188
+  },
+  {
+    "SalesQuantityLastMonth": 519,
+    "SalesQuantityLastYear": 1452,
+    "SalesQuantityTotal": 19019
+  },
+  {
+    "SalesQuantityLastMonth": 4280,
+    "SalesQuantityLastYear": 11137,
+    "SalesQuantityTotal": 18930
+  },
+  {
+    "SalesQuantityLastMonth": 27987,
+    "SalesQuantityLastYear": 4153,
+    "SalesQuantityTotal": 22267
+  },
+  {
+    "SalesQuantityLastMonth": 16843,
+    "SalesQuantityLastYear": 19116,
+    "SalesQuantityTotal": 3338
+  },
+  {
+    "SalesQuantityLastMonth": 1174,
+    "SalesQuantityLastYear": 26966,
+    "SalesQuantityTotal": 5054
+  },
+  {
+    "SalesQuantityLastMonth": 31077,
+    "SalesQuantityLastYear": 2835,
+    "SalesQuantityTotal": 15760
+  },
+  {
+    "SalesQuantityLastMonth": 11666,
+    "SalesQuantityLastYear": 8075,
+    "SalesQuantityTotal": 20329
+  },
+  {
+    "SalesQuantityLastMonth": 1070,
+    "SalesQuantityLastYear": 6406,
+    "SalesQuantityTotal": 14714
+  },
+  {
+    "SalesQuantityLastMonth": 3455,
+    "SalesQuantityLastYear": 18726,
+    "SalesQuantityTotal": 23082
+  },
+  {
+    "SalesQuantityLastMonth": 25329,
+    "SalesQuantityLastYear": 2331,
+    "SalesQuantityTotal": 22955
+  },
+  {
+    "SalesQuantityLastMonth": 21189,
+    "SalesQuantityLastYear": 15163,
+    "SalesQuantityTotal": 2767
+  },
+  {
+    "SalesQuantityLastMonth": 31869,
+    "SalesQuantityLastYear": 11429,
+    "SalesQuantityTotal": 6685
+  },
+  {
+    "SalesQuantityLastMonth": 10360,
+    "SalesQuantityLastYear": 13022,
+    "SalesQuantityTotal": 30996
+  },
+  {
+    "SalesQuantityLastMonth": 2213,
+    "SalesQuantityLastYear": 31914,
+    "SalesQuantityTotal": 28778
+  },
+  {
+    "SalesQuantityLastMonth": 14578,
+    "SalesQuantityLastYear": 23271,
+    "SalesQuantityTotal": 6410
+  },
+  {
+    "SalesQuantityLastMonth": 15602,
+    "SalesQuantityLastYear": 21811,
+    "SalesQuantityTotal": 2087
+  },
+  {
+    "SalesQuantityLastMonth": 10914,
+    "SalesQuantityLastYear": 2184,
+    "SalesQuantityTotal": 17840
+  },
+  {
+    "SalesQuantityLastMonth": 20167,
+    "SalesQuantityLastYear": 8048,
+    "SalesQuantityTotal": 25262
+  },
+  {
+    "SalesQuantityLastMonth": 32216,
+    "SalesQuantityLastYear": 27813,
+    "SalesQuantityTotal": 4561
+  },
+  {
+    "SalesQuantityLastMonth": 1080,
+    "SalesQuantityLastYear": 28616,
+    "SalesQuantityTotal": 2078
+  },
+  {
+    "SalesQuantityLastMonth": 32079,
+    "SalesQuantityLastYear": 28422,
+    "SalesQuantityTotal": 4209
+  },
+  {
+    "SalesQuantityLastMonth": 827,
+    "SalesQuantityLastYear": 2072,
+    "SalesQuantityTotal": 15793
+  },
+  {
+    "SalesQuantityLastMonth": 31137,
+    "SalesQuantityLastYear": 20972,
+    "SalesQuantityTotal": 22581
+  },
+  {
+    "SalesQuantityLastMonth": 17532,
+    "SalesQuantityLastYear": 9708,
+    "SalesQuantityTotal": 8929
+  },
+  {
+    "SalesQuantityLastMonth": 24319,
+    "SalesQuantityLastYear": 19259,
+    "SalesQuantityTotal": 15903
+  },
+  {
+    "SalesQuantityLastMonth": 8559,
+    "SalesQuantityLastYear": 20621,
+    "SalesQuantityTotal": 29683
+  },
+  {
+    "SalesQuantityLastMonth": 21250,
+    "SalesQuantityLastYear": 14670,
+    "SalesQuantityTotal": 403
+  },
+  {
+    "SalesQuantityLastMonth": 5371,
+    "SalesQuantityLastYear": 1278,
+    "SalesQuantityTotal": 7370
+  },
+  {
+    "SalesQuantityLastMonth": 10273,
+    "SalesQuantityLastYear": 12498,
+    "SalesQuantityTotal": 11980
+  },
+  {
+    "SalesQuantityLastMonth": 11639,
+    "SalesQuantityLastYear": 6054,
+    "SalesQuantityTotal": 6073
+  },
+  {
+    "SalesQuantityLastMonth": 6365,
+    "SalesQuantityLastYear": 29255,
+    "SalesQuantityTotal": 26956
+  },
+  {
+    "SalesQuantityLastMonth": 15266,
+    "SalesQuantityLastYear": 27617,
+    "SalesQuantityTotal": 2457
+  },
+  {
+    "SalesQuantityLastMonth": 15031,
+    "SalesQuantityLastYear": 19994,
+    "SalesQuantityTotal": 13979
+  },
+  {
+    "SalesQuantityLastMonth": 28026,
+    "SalesQuantityLastYear": 2891,
+    "SalesQuantityTotal": 31108
+  },
+  {
+    "SalesQuantityLastMonth": 16588,
+    "SalesQuantityLastYear": 28075,
+    "SalesQuantityTotal": 12165
+  },
+  {
+    "SalesQuantityLastMonth": 28770,
+    "SalesQuantityLastYear": 13227,
+    "SalesQuantityTotal": 28263
+  },
+  {
+    "SalesQuantityLastMonth": 7621,
+    "SalesQuantityLastYear": 21012,
+    "SalesQuantityTotal": 1930
+  },
+  {
+    "SalesQuantityLastMonth": 26964,
+    "SalesQuantityLastYear": 29606,
+    "SalesQuantityTotal": 23321
+  },
+  {
+    "SalesQuantityLastMonth": 22342,
+    "SalesQuantityLastYear": 4068,
+    "SalesQuantityTotal": 19753
+  },
+  {
+    "SalesQuantityLastMonth": 15174,
+    "SalesQuantityLastYear": 10639,
+    "SalesQuantityTotal": 11715
+  },
+  {
+    "SalesQuantityLastMonth": 3599,
+    "SalesQuantityLastYear": 12441,
+    "SalesQuantityTotal": 30131
+  },
+  {
+    "SalesQuantityLastMonth": 4248,
+    "SalesQuantityLastYear": 21054,
+    "SalesQuantityTotal": 6358
+  },
+  {
+    "SalesQuantityLastMonth": 5845,
+    "SalesQuantityLastYear": 9945,
+    "SalesQuantityTotal": 2444
+  },
+  {
+    "SalesQuantityLastMonth": 2380,
+    "SalesQuantityLastYear": 19192,
+    "SalesQuantityTotal": 10112
+  },
+  {
+    "SalesQuantityLastMonth": 31155,
+    "SalesQuantityLastYear": 9030,
+    "SalesQuantityTotal": 26452
+  },
+  {
+    "SalesQuantityLastMonth": 17191,
+    "SalesQuantityLastYear": 31535,
+    "SalesQuantityTotal": 32241
+  },
+  {
+    "SalesQuantityLastMonth": 10052,
+    "SalesQuantityLastYear": 31738,
+    "SalesQuantityTotal": 10577
+  },
+  {
+    "SalesQuantityLastMonth": 31512,
+    "SalesQuantityLastYear": 8499,
+    "SalesQuantityTotal": 25281
+  },
+  {
+    "SalesQuantityLastMonth": 21070,
+    "SalesQuantityLastYear": 472,
+    "SalesQuantityTotal": 5619
+  },
+  {
+    "SalesQuantityLastMonth": 24477,
+    "SalesQuantityLastYear": 30419,
+    "SalesQuantityTotal": 15249
+  },
+  {
+    "SalesQuantityLastMonth": 25560,
+    "SalesQuantityLastYear": 31573,
+    "SalesQuantityTotal": 17643
+  },
+  {
+    "SalesQuantityLastMonth": 23943,
+    "SalesQuantityLastYear": 27765,
+    "SalesQuantityTotal": 4403
+  },
+  {
+    "SalesQuantityLastMonth": 30712,
+    "SalesQuantityLastYear": 9219,
+    "SalesQuantityTotal": 23879
+  },
+  {
+    "SalesQuantityLastMonth": 22667,
+    "SalesQuantityLastYear": 7637,
+    "SalesQuantityTotal": 18574
+  },
+  {
+    "SalesQuantityLastMonth": 5432,
+    "SalesQuantityLastYear": 18887,
+    "SalesQuantityTotal": 15506
+  },
+  {
+    "SalesQuantityLastMonth": 17107,
+    "SalesQuantityLastYear": 29012,
+    "SalesQuantityTotal": 20832
+  },
+  {
+    "SalesQuantityLastMonth": 29637,
+    "SalesQuantityLastYear": 5407,
+    "SalesQuantityTotal": 5300
+  },
+  {
+    "SalesQuantityLastMonth": 20279,
+    "SalesQuantityLastYear": 5377,
+    "SalesQuantityTotal": 11669
+  },
+  {
+    "SalesQuantityLastMonth": 1394,
+    "SalesQuantityLastYear": 4855,
+    "SalesQuantityTotal": 4198
+  },
+  {
+    "SalesQuantityLastMonth": 5105,
+    "SalesQuantityLastYear": 15946,
+    "SalesQuantityTotal": 995
+  },
+  {
+    "SalesQuantityLastMonth": 14135,
+    "SalesQuantityLastYear": 12293,
+    "SalesQuantityTotal": 19962
+  },
+  {
+    "SalesQuantityLastMonth": 9588,
+    "SalesQuantityLastYear": 7467,
+    "SalesQuantityTotal": 14033
+  },
+  {
+    "SalesQuantityLastMonth": 22304,
+    "SalesQuantityLastYear": 19246,
+    "SalesQuantityTotal": 22571
+  },
+  {
+    "SalesQuantityLastMonth": 8618,
+    "SalesQuantityLastYear": 20152,
+    "SalesQuantityTotal": 24356
+  },
+  {
+    "SalesQuantityLastMonth": 24770,
+    "SalesQuantityLastYear": 26335,
+    "SalesQuantityTotal": 22379
+  },
+  {
+    "SalesQuantityLastMonth": 10031,
+    "SalesQuantityLastYear": 4218,
+    "SalesQuantityTotal": 4227
+  },
+  {
+    "SalesQuantityLastMonth": 17555,
+    "SalesQuantityLastYear": 27608,
+    "SalesQuantityTotal": 25268
+  },
+  {
+    "SalesQuantityLastMonth": 10205,
+    "SalesQuantityLastYear": 5536,
+    "SalesQuantityTotal": 26451
+  },
+  {
+    "SalesQuantityLastMonth": 6229,
+    "SalesQuantityLastYear": 22805,
+    "SalesQuantityTotal": 23165
+  },
+  {
+    "SalesQuantityLastMonth": 461,
+    "SalesQuantityLastYear": 25862,
+    "SalesQuantityTotal": 26041
+  },
+  {
+    "SalesQuantityLastMonth": 3297,
+    "SalesQuantityLastYear": 21928,
+    "SalesQuantityTotal": 26269
+  },
+  {
+    "SalesQuantityLastMonth": 6537,
+    "SalesQuantityLastYear": 18237,
+    "SalesQuantityTotal": 9555
+  },
+  {
+    "SalesQuantityLastMonth": 27887,
+    "SalesQuantityLastYear": 24638,
+    "SalesQuantityTotal": 21801
+  },
+  {
+    "SalesQuantityLastMonth": 7054,
+    "SalesQuantityLastYear": 7588,
+    "SalesQuantityTotal": 18928
+  },
+  {
+    "SalesQuantityLastMonth": 15496,
+    "SalesQuantityLastYear": 11917,
+    "SalesQuantityTotal": 17992
+  },
+  {
+    "SalesQuantityLastMonth": 20081,
+    "SalesQuantityLastYear": 9391,
+    "SalesQuantityTotal": 11287
+  },
+  {
+    "SalesQuantityLastMonth": 14586,
+    "SalesQuantityLastYear": 27842,
+    "SalesQuantityTotal": 11984
+  },
+  {
+    "SalesQuantityLastMonth": 16865,
+    "SalesQuantityLastYear": 16208,
+    "SalesQuantityTotal": 19295
+  },
+  {
+    "SalesQuantityLastMonth": 19792,
+    "SalesQuantityLastYear": 4307,
+    "SalesQuantityTotal": 26703
+  },
+  {
+    "SalesQuantityLastMonth": 19264,
+    "SalesQuantityLastYear": 17430,
+    "SalesQuantityTotal": 23635
+  },
+  {
+    "SalesQuantityLastMonth": 22099,
+    "SalesQuantityLastYear": 26152,
+    "SalesQuantityTotal": 29298
+  },
+  {
+    "SalesQuantityLastMonth": 5576,
+    "SalesQuantityLastYear": 30854,
+    "SalesQuantityTotal": 18489
+  },
+  {
+    "SalesQuantityLastMonth": 8353,
+    "SalesQuantityLastYear": 14911,
+    "SalesQuantityTotal": 12348
+  },
+  {
+    "SalesQuantityLastMonth": 15194,
+    "SalesQuantityLastYear": 10756,
+    "SalesQuantityTotal": 20275
+  },
+  {
+    "SalesQuantityLastMonth": 6596,
+    "SalesQuantityLastYear": 26387,
+    "SalesQuantityTotal": 8714
+  },
+  {
+    "SalesQuantityLastMonth": 18916,
+    "SalesQuantityLastYear": 13669,
+    "SalesQuantityTotal": 12134
+  },
+  {
+    "SalesQuantityLastMonth": 18642,
+    "SalesQuantityLastYear": 30788,
+    "SalesQuantityTotal": 14312
+  },
+  {
+    "SalesQuantityLastMonth": 19200,
+    "SalesQuantityLastYear": 5976,
+    "SalesQuantityTotal": 7230
+  },
+  {
+    "SalesQuantityLastMonth": 19512,
+    "SalesQuantityLastYear": 8480,
+    "SalesQuantityTotal": 5504
+  },
+  {
+    "SalesQuantityLastMonth": 1439,
+    "SalesQuantityLastYear": 4627,
+    "SalesQuantityTotal": 16187
+  },
+  {
+    "SalesQuantityLastMonth": 18257,
+    "SalesQuantityLastYear": 25544,
+    "SalesQuantityTotal": 18966
+  },
+  {
+    "SalesQuantityLastMonth": 19768,
+    "SalesQuantityLastYear": 21994,
+    "SalesQuantityTotal": 23670
+  },
+  {
+    "SalesQuantityLastMonth": 3190,
+    "SalesQuantityLastYear": 1762,
+    "SalesQuantityTotal": 13186
+  },
+  {
+    "SalesQuantityLastMonth": 32404,
+    "SalesQuantityLastYear": 1927,
+    "SalesQuantityTotal": 5707
+  },
+  {
+    "SalesQuantityLastMonth": 31788,
+    "SalesQuantityLastYear": 13452,
+    "SalesQuantityTotal": 15305
+  },
+  {
+    "SalesQuantityLastMonth": 18245,
+    "SalesQuantityLastYear": 603,
+    "SalesQuantityTotal": 4016
+  },
+  {
+    "SalesQuantityLastMonth": 11757,
+    "SalesQuantityLastYear": 28131,
+    "SalesQuantityTotal": 19144
+  },
+  {
+    "SalesQuantityLastMonth": 23880,
+    "SalesQuantityLastYear": 31744,
+    "SalesQuantityTotal": 32641
+  },
+  {
+    "SalesQuantityLastMonth": 7831,
+    "SalesQuantityLastYear": 13727,
+    "SalesQuantityTotal": 6973
+  },
+  {
+    "SalesQuantityLastMonth": 10823,
+    "SalesQuantityLastYear": 27336,
+    "SalesQuantityTotal": 2274
+  },
+  {
+    "SalesQuantityLastMonth": 13820,
+    "SalesQuantityLastYear": 8765,
+    "SalesQuantityTotal": 20046
+  },
+  {
+    "SalesQuantityLastMonth": 21713,
+    "SalesQuantityLastYear": 29689,
+    "SalesQuantityTotal": 22766
+  },
+  {
+    "SalesQuantityLastMonth": 9199,
+    "SalesQuantityLastYear": 17135,
+    "SalesQuantityTotal": 17858
+  },
+  {
+    "SalesQuantityLastMonth": 14676,
+    "SalesQuantityLastYear": 17529,
+    "SalesQuantityTotal": 524
+  },
+  {
+    "SalesQuantityLastMonth": 8209,
+    "SalesQuantityLastYear": 6316,
+    "SalesQuantityTotal": 25942
+  },
+  {
+    "SalesQuantityLastMonth": 27584,
+    "SalesQuantityLastYear": 15962,
+    "SalesQuantityTotal": 5282
+  },
+  {
+    "SalesQuantityLastMonth": 866,
+    "SalesQuantityLastYear": 4686,
+    "SalesQuantityTotal": 14800
+  },
+  {
+    "SalesQuantityLastMonth": 30180,
+    "SalesQuantityLastYear": 3980,
+    "SalesQuantityTotal": 20220
+  },
+  {
+    "SalesQuantityLastMonth": 27265,
+    "SalesQuantityLastYear": 30882,
+    "SalesQuantityTotal": 24694
+  },
+  {
+    "SalesQuantityLastMonth": 3317,
+    "SalesQuantityLastYear": 25686,
+    "SalesQuantityTotal": 23872
+  },
+  {
+    "SalesQuantityLastMonth": 11139,
+    "SalesQuantityLastYear": 29770,
+    "SalesQuantityTotal": 32399
+  },
+  {
+    "SalesQuantityLastMonth": 6796,
+    "SalesQuantityLastYear": 23409,
+    "SalesQuantityTotal": 29299
+  },
+  {
+    "SalesQuantityLastMonth": 14018,
+    "SalesQuantityLastYear": 2813,
+    "SalesQuantityTotal": 19344
+  },
+  {
+    "SalesQuantityLastMonth": 10528,
+    "SalesQuantityLastYear": 821,
+    "SalesQuantityTotal": 1870
+  },
+  {
+    "SalesQuantityLastMonth": 15926,
+    "SalesQuantityLastYear": 25684,
+    "SalesQuantityTotal": 6954
+  },
+  {
+    "SalesQuantityLastMonth": 13015,
+    "SalesQuantityLastYear": 30532,
+    "SalesQuantityTotal": 1947
+  },
+  {
+    "SalesQuantityLastMonth": 10212,
+    "SalesQuantityLastYear": 22905,
+    "SalesQuantityTotal": 20241
+  },
+  {
+    "SalesQuantityLastMonth": 16407,
+    "SalesQuantityLastYear": 5041,
+    "SalesQuantityTotal": 32593
+  },
+  {
+    "SalesQuantityLastMonth": 27215,
+    "SalesQuantityLastYear": 31575,
+    "SalesQuantityTotal": 30840
+  },
+  {
+    "SalesQuantityLastMonth": 6137,
+    "SalesQuantityLastYear": 23204,
+    "SalesQuantityTotal": 18399
+  },
+  {
+    "SalesQuantityLastMonth": 21757,
+    "SalesQuantityLastYear": 26425,
+    "SalesQuantityTotal": 22153
+  },
+  {
+    "SalesQuantityLastMonth": 11207,
+    "SalesQuantityLastYear": 6684,
+    "SalesQuantityTotal": 19402
+  },
+  {
+    "SalesQuantityLastMonth": 4430,
+    "SalesQuantityLastYear": 19431,
+    "SalesQuantityTotal": 19616
+  },
+  {
+    "SalesQuantityLastMonth": 2128,
+    "SalesQuantityLastYear": 28223,
+    "SalesQuantityTotal": 19907
+  },
+  {
+    "SalesQuantityLastMonth": 3414,
+    "SalesQuantityLastYear": 18606,
+    "SalesQuantityTotal": 2519
+  },
+  {
+    "SalesQuantityLastMonth": 15211,
+    "SalesQuantityLastYear": 31777,
+    "SalesQuantityTotal": 29130
+  },
+  {
+    "SalesQuantityLastMonth": 13939,
+    "SalesQuantityLastYear": 1949,
+    "SalesQuantityTotal": 23994
+  },
+  {
+    "SalesQuantityLastMonth": 13915,
+    "SalesQuantityLastYear": 21001,
+    "SalesQuantityTotal": 9784
+  },
+  {
+    "SalesQuantityLastMonth": 16247,
+    "SalesQuantityLastYear": 2010,
+    "SalesQuantityTotal": 23583
+  },
+  {
+    "SalesQuantityLastMonth": 2339,
+    "SalesQuantityLastYear": 4874,
+    "SalesQuantityTotal": 15945
+  },
+  {
+    "SalesQuantityLastMonth": 28908,
+    "SalesQuantityLastYear": 24897,
+    "SalesQuantityTotal": 11831
+  },
+  {
+    "SalesQuantityLastMonth": 8213,
+    "SalesQuantityLastYear": 3105,
+    "SalesQuantityTotal": 19255
+  },
+  {
+    "SalesQuantityLastMonth": 20320,
+    "SalesQuantityLastYear": 8840,
+    "SalesQuantityTotal": 346
+  },
+  {
+    "SalesQuantityLastMonth": 23364,
+    "SalesQuantityLastYear": 21033,
+    "SalesQuantityTotal": 24785
+  },
+  {
+    "SalesQuantityLastMonth": 29267,
+    "SalesQuantityLastYear": 1882,
+    "SalesQuantityTotal": 14243
+  },
+  {
+    "SalesQuantityLastMonth": 24952,
+    "SalesQuantityLastYear": 16619,
+    "SalesQuantityTotal": 31830
+  },
+  {
+    "SalesQuantityLastMonth": 9775,
+    "SalesQuantityLastYear": 9520,
+    "SalesQuantityTotal": 16706
+  },
+  {
+    "SalesQuantityLastMonth": 30530,
+    "SalesQuantityLastYear": 12765,
+    "SalesQuantityTotal": 1407
+  },
+  {
+    "SalesQuantityLastMonth": 1678,
+    "SalesQuantityLastYear": 17647,
+    "SalesQuantityTotal": 13615
+  },
+  {
+    "SalesQuantityLastMonth": 29749,
+    "SalesQuantityLastYear": 3926,
+    "SalesQuantityTotal": 5452
+  },
+  {
+    "SalesQuantityLastMonth": 32083,
+    "SalesQuantityLastYear": 27778,
+    "SalesQuantityTotal": 24350
+  },
+  {
+    "SalesQuantityLastMonth": 10648,
+    "SalesQuantityLastYear": 32181,
+    "SalesQuantityTotal": 10492
+  },
+  {
+    "SalesQuantityLastMonth": 12777,
+    "SalesQuantityLastYear": 9066,
+    "SalesQuantityTotal": 5355
+  },
+  {
+    "SalesQuantityLastMonth": 23359,
+    "SalesQuantityLastYear": 23903,
+    "SalesQuantityTotal": 23318
+  },
+  {
+    "SalesQuantityLastMonth": 32736,
+    "SalesQuantityLastYear": 19748,
+    "SalesQuantityTotal": 384
+  },
+  {
+    "SalesQuantityLastMonth": 9595,
+    "SalesQuantityLastYear": 10155,
+    "SalesQuantityTotal": 21023
+  },
+  {
+    "SalesQuantityLastMonth": 19924,
+    "SalesQuantityLastYear": 19643,
+    "SalesQuantityTotal": 8446
+  },
+  {
+    "SalesQuantityLastMonth": 14068,
+    "SalesQuantityLastYear": 1953,
+    "SalesQuantityTotal": 3553
+  },
+  {
+    "SalesQuantityLastMonth": 28819,
+    "SalesQuantityLastYear": 2928,
+    "SalesQuantityTotal": 27993
+  },
+  {
+    "SalesQuantityLastMonth": 26778,
+    "SalesQuantityLastYear": 3365,
+    "SalesQuantityTotal": 19694
+  },
+  {
+    "SalesQuantityLastMonth": 15836,
+    "SalesQuantityLastYear": 25470,
+    "SalesQuantityTotal": 1745
+  },
+  {
+    "SalesQuantityLastMonth": 10299,
+    "SalesQuantityLastYear": 3851,
+    "SalesQuantityTotal": 25538
+  },
+  {
+    "SalesQuantityLastMonth": 6383,
+    "SalesQuantityLastYear": 19309,
+    "SalesQuantityTotal": 964
+  },
+  {
+    "SalesQuantityLastMonth": 4421,
+    "SalesQuantityLastYear": 26114,
+    "SalesQuantityTotal": 6883
+  },
+  {
+    "SalesQuantityLastMonth": 22215,
+    "SalesQuantityLastYear": 1438,
+    "SalesQuantityTotal": 16679
+  },
+  {
+    "SalesQuantityLastMonth": 17519,
+    "SalesQuantityLastYear": 4275,
+    "SalesQuantityTotal": 8982
+  },
+  {
+    "SalesQuantityLastMonth": 19810,
+    "SalesQuantityLastYear": 12695,
+    "SalesQuantityTotal": 19587
+  },
+  {
+    "SalesQuantityLastMonth": 10537,
+    "SalesQuantityLastYear": 15200,
+    "SalesQuantityTotal": 30484
+  },
+  {
+    "SalesQuantityLastMonth": 7195,
+    "SalesQuantityLastYear": 16726,
+    "SalesQuantityTotal": 6393
+  },
+  {
+    "SalesQuantityLastMonth": 10130,
+    "SalesQuantityLastYear": 29349,
+    "SalesQuantityTotal": 20794
+  },
+  {
+    "SalesQuantityLastMonth": 17156,
+    "SalesQuantityLastYear": 25064,
+    "SalesQuantityTotal": 18259
+  },
+  {
+    "SalesQuantityLastMonth": 22852,
+    "SalesQuantityLastYear": 6000,
+    "SalesQuantityTotal": 17384
+  },
+  {
+    "SalesQuantityLastMonth": 14895,
+    "SalesQuantityLastYear": 30341,
+    "SalesQuantityTotal": 19216
+  },
+  {
+    "SalesQuantityLastMonth": 15478,
+    "SalesQuantityLastYear": 15100,
+    "SalesQuantityTotal": 7441
+  },
+  {
+    "SalesQuantityLastMonth": 6256,
+    "SalesQuantityLastYear": 771,
+    "SalesQuantityTotal": 19642
+  },
+  {
+    "SalesQuantityLastMonth": 25362,
+    "SalesQuantityLastYear": 18177,
+    "SalesQuantityTotal": 23973
+  },
+  {
+    "SalesQuantityLastMonth": 19585,
+    "SalesQuantityLastYear": 27150,
+    "SalesQuantityTotal": 30308
+  },
+  {
+    "SalesQuantityLastMonth": 13030,
+    "SalesQuantityLastYear": 14925,
+    "SalesQuantityTotal": 32529
+  },
+  {
+    "SalesQuantityLastMonth": 21418,
+    "SalesQuantityLastYear": 27822,
+    "SalesQuantityTotal": 31956
+  },
+  {
+    "SalesQuantityLastMonth": 2838,
+    "SalesQuantityLastYear": 27339,
+    "SalesQuantityTotal": 27059
+  },
+  {
+    "SalesQuantityLastMonth": 29532,
+    "SalesQuantityLastYear": 18856,
+    "SalesQuantityTotal": 18591
+  },
+  {
+    "SalesQuantityLastMonth": 17050,
+    "SalesQuantityLastYear": 24382,
+    "SalesQuantityTotal": 18221
+  },
+  {
+    "SalesQuantityLastMonth": 27434,
+    "SalesQuantityLastYear": 31043,
+    "SalesQuantityTotal": 22831
+  },
+  {
+    "SalesQuantityLastMonth": 26854,
+    "SalesQuantityLastYear": 22237,
+    "SalesQuantityTotal": 31847
+  },
+  {
+    "SalesQuantityLastMonth": 29985,
+    "SalesQuantityLastYear": 4743,
+    "SalesQuantityTotal": 3352
+  },
+  {
+    "SalesQuantityLastMonth": 29968,
+    "SalesQuantityLastYear": 20321,
+    "SalesQuantityTotal": 20983
+  },
+  {
+    "SalesQuantityLastMonth": 18925,
+    "SalesQuantityLastYear": 10019,
+    "SalesQuantityTotal": 26412
+  },
+  {
+    "SalesQuantityLastMonth": 3996,
+    "SalesQuantityLastYear": 12290,
+    "SalesQuantityTotal": 3589
+  },
+  {
+    "SalesQuantityLastMonth": 23091,
+    "SalesQuantityLastYear": 17349,
+    "SalesQuantityTotal": 22329
+  },
+  {
+    "SalesQuantityLastMonth": 15707,
+    "SalesQuantityLastYear": 27759,
+    "SalesQuantityTotal": 24644
+  },
+  {
+    "SalesQuantityLastMonth": 21187,
+    "SalesQuantityLastYear": 18336,
+    "SalesQuantityTotal": 20433
+  },
+  {
+    "SalesQuantityLastMonth": 16488,
+    "SalesQuantityLastYear": 28027,
+    "SalesQuantityTotal": 7397
+  },
+  {
+    "SalesQuantityLastMonth": 23511,
+    "SalesQuantityLastYear": 25697,
+    "SalesQuantityTotal": 29521
+  },
+  {
+    "SalesQuantityLastMonth": 551,
+    "SalesQuantityLastYear": 10670,
+    "SalesQuantityTotal": 31228
+  },
+  {
+    "SalesQuantityLastMonth": 15812,
+    "SalesQuantityLastYear": 10438,
+    "SalesQuantityTotal": 29433
+  },
+  {
+    "SalesQuantityLastMonth": 12474,
+    "SalesQuantityLastYear": 30621,
+    "SalesQuantityTotal": 11891
+  },
+  {
+    "SalesQuantityLastMonth": 11475,
+    "SalesQuantityLastYear": 6611,
+    "SalesQuantityTotal": 8389
+  },
+  {
+    "SalesQuantityLastMonth": 25211,
+    "SalesQuantityLastYear": 14850,
+    "SalesQuantityTotal": 12347
+  },
+  {
+    "SalesQuantityLastMonth": 14887,
+    "SalesQuantityLastYear": 4599,
+    "SalesQuantityTotal": 13950
+  },
+  {
+    "SalesQuantityLastMonth": 758,
+    "SalesQuantityLastYear": 11403,
+    "SalesQuantityTotal": 27245
+  },
+  {
+    "SalesQuantityLastMonth": 7458,
+    "SalesQuantityLastYear": 9054,
+    "SalesQuantityTotal": 19174
+  },
+  {
+    "SalesQuantityLastMonth": 14766,
+    "SalesQuantityLastYear": 21534,
+    "SalesQuantityTotal": 13736
+  },
+  {
+    "SalesQuantityLastMonth": 25061,
+    "SalesQuantityLastYear": 16990,
+    "SalesQuantityTotal": 30240
+  },
+  {
+    "SalesQuantityLastMonth": 25995,
+    "SalesQuantityLastYear": 13266,
+    "SalesQuantityTotal": 26117
+  },
+  {
+    "SalesQuantityLastMonth": 26093,
+    "SalesQuantityLastYear": 21155,
+    "SalesQuantityTotal": 29245
+  },
+  {
+    "SalesQuantityLastMonth": 25919,
+    "SalesQuantityLastYear": 5130,
+    "SalesQuantityTotal": 24476
+  },
+  {
+    "SalesQuantityLastMonth": 4072,
+    "SalesQuantityLastYear": 16539,
+    "SalesQuantityTotal": 18289
+  },
+  {
+    "SalesQuantityLastMonth": 13053,
+    "SalesQuantityLastYear": 31335,
+    "SalesQuantityTotal": 28910
+  },
+  {
+    "SalesQuantityLastMonth": 5838,
+    "SalesQuantityLastYear": 19054,
+    "SalesQuantityTotal": 15936
+  },
+  {
+    "SalesQuantityLastMonth": 25277,
+    "SalesQuantityLastYear": 19168,
+    "SalesQuantityTotal": 12003
+  },
+  {
+    "SalesQuantityLastMonth": 29019,
+    "SalesQuantityLastYear": 21915,
+    "SalesQuantityTotal": 16192
+  },
+  {
+    "SalesQuantityLastMonth": 24025,
+    "SalesQuantityLastYear": 7014,
+    "SalesQuantityTotal": 14923
+  },
+  {
+    "SalesQuantityLastMonth": 23708,
+    "SalesQuantityLastYear": 17141,
+    "SalesQuantityTotal": 19598
+  },
+  {
+    "SalesQuantityLastMonth": 27253,
+    "SalesQuantityLastYear": 9139,
+    "SalesQuantityTotal": 15162
+  },
+  {
+    "SalesQuantityLastMonth": 6758,
+    "SalesQuantityLastYear": 31861,
+    "SalesQuantityTotal": 21524
+  },
+  {
+    "SalesQuantityLastMonth": 9302,
+    "SalesQuantityLastYear": 15869,
+    "SalesQuantityTotal": 21735
+  },
+  {
+    "SalesQuantityLastMonth": 10941,
+    "SalesQuantityLastYear": 9075,
+    "SalesQuantityTotal": 9049
+  },
+  {
+    "SalesQuantityLastMonth": 7586,
+    "SalesQuantityLastYear": 10962,
+    "SalesQuantityTotal": 21937
+  },
+  {
+    "SalesQuantityLastMonth": 28769,
+    "SalesQuantityLastYear": 20607,
+    "SalesQuantityTotal": 18623
+  },
+  {
+    "SalesQuantityLastMonth": 15951,
+    "SalesQuantityLastYear": 27449,
+    "SalesQuantityTotal": 9380
+  },
+  {
+    "SalesQuantityLastMonth": 24480,
+    "SalesQuantityLastYear": 11328,
+    "SalesQuantityTotal": 17014
+  },
+  {
+    "SalesQuantityLastMonth": 4457,
+    "SalesQuantityLastYear": 10157,
+    "SalesQuantityTotal": 29897
+  },
+  {
+    "SalesQuantityLastMonth": 22487,
+    "SalesQuantityLastYear": 11758,
+    "SalesQuantityTotal": 14190
+  },
+  {
+    "SalesQuantityLastMonth": 7590,
+    "SalesQuantityLastYear": 17242,
+    "SalesQuantityTotal": 22054
+  },
+  {
+    "SalesQuantityLastMonth": 9406,
+    "SalesQuantityLastYear": 30658,
+    "SalesQuantityTotal": 24833
+  },
+  {
+    "SalesQuantityLastMonth": 29816,
+    "SalesQuantityLastYear": 17081,
+    "SalesQuantityTotal": 10008
+  },
+  {
+    "SalesQuantityLastMonth": 322,
+    "SalesQuantityLastYear": 3797,
+    "SalesQuantityTotal": 8482
+  },
+  {
+    "SalesQuantityLastMonth": 3183,
+    "SalesQuantityLastYear": 20226,
+    "SalesQuantityTotal": 14585
+  },
+  {
+    "SalesQuantityLastMonth": 5486,
+    "SalesQuantityLastYear": 2344,
+    "SalesQuantityTotal": 11013
+  },
+  {
+    "SalesQuantityLastMonth": 3680,
+    "SalesQuantityLastYear": 29067,
+    "SalesQuantityTotal": 8012
+  },
+  {
+    "SalesQuantityLastMonth": 22459,
+    "SalesQuantityLastYear": 10473,
+    "SalesQuantityTotal": 3028
+  },
+  {
+    "SalesQuantityLastMonth": 30578,
+    "SalesQuantityLastYear": 1169,
+    "SalesQuantityTotal": 22512
+  },
+  {
+    "SalesQuantityLastMonth": 27660,
+    "SalesQuantityLastYear": 11623,
+    "SalesQuantityTotal": 12172
+  },
+  {
+    "SalesQuantityLastMonth": 26150,
+    "SalesQuantityLastYear": 19847,
+    "SalesQuantityTotal": 31951
+  },
+  {
+    "SalesQuantityLastMonth": 1714,
+    "SalesQuantityLastYear": 23112,
+    "SalesQuantityTotal": 21675
+  },
+  {
+    "SalesQuantityLastMonth": 12787,
+    "SalesQuantityLastYear": 30878,
+    "SalesQuantityTotal": 28541
+  },
+  {
+    "SalesQuantityLastMonth": 21575,
+    "SalesQuantityLastYear": 31638,
+    "SalesQuantityTotal": 17697
+  },
+  {
+    "SalesQuantityLastMonth": 9313,
+    "SalesQuantityLastYear": 20938,
+    "SalesQuantityTotal": 3101
+  },
+  {
+    "SalesQuantityLastMonth": 11321,
+    "SalesQuantityLastYear": 29556,
+    "SalesQuantityTotal": 22640
+  },
+  {
+    "SalesQuantityLastMonth": 27809,
+    "SalesQuantityLastYear": 31232,
+    "SalesQuantityTotal": 15458
+  },
+  {
+    "SalesQuantityLastMonth": 6433,
+    "SalesQuantityLastYear": 17898,
+    "SalesQuantityTotal": 7024
+  },
+  {
+    "SalesQuantityLastMonth": 19281,
+    "SalesQuantityLastYear": 11595,
+    "SalesQuantityTotal": 29745
+  },
+  {
+    "SalesQuantityLastMonth": 2577,
+    "SalesQuantityLastYear": 2412,
+    "SalesQuantityTotal": 30603
+  },
+  {
+    "SalesQuantityLastMonth": 6940,
+    "SalesQuantityLastYear": 16718,
+    "SalesQuantityTotal": 9298
+  },
+  {
+    "SalesQuantityLastMonth": 18767,
+    "SalesQuantityLastYear": 24240,
+    "SalesQuantityTotal": 16579
+  },
+  {
+    "SalesQuantityLastMonth": 22324,
+    "SalesQuantityLastYear": 12902,
+    "SalesQuantityTotal": 7906
+  },
+  {
+    "SalesQuantityLastMonth": 7748,
+    "SalesQuantityLastYear": 9142,
+    "SalesQuantityTotal": 5018
+  },
+  {
+    "SalesQuantityLastMonth": 1415,
+    "SalesQuantityLastYear": 14858,
+    "SalesQuantityTotal": 27732
+  },
+  {
+    "SalesQuantityLastMonth": 22616,
+    "SalesQuantityLastYear": 25723,
+    "SalesQuantityTotal": 5275
+  },
+  {
+    "SalesQuantityLastMonth": 6953,
+    "SalesQuantityLastYear": 17130,
+    "SalesQuantityTotal": 14675
+  },
+  {
+    "SalesQuantityLastMonth": 21383,
+    "SalesQuantityLastYear": 16748,
+    "SalesQuantityTotal": 21475
+  },
+  {
+    "SalesQuantityLastMonth": 16583,
+    "SalesQuantityLastYear": 16343,
+    "SalesQuantityTotal": 2649
+  },
+  {
+    "SalesQuantityLastMonth": 1389,
+    "SalesQuantityLastYear": 26220,
+    "SalesQuantityTotal": 19419
+  },
+  {
+    "SalesQuantityLastMonth": 26179,
+    "SalesQuantityLastYear": 19861,
+    "SalesQuantityTotal": 2629
+  },
+  {
+    "SalesQuantityLastMonth": 4476,
+    "SalesQuantityLastYear": 3279,
+    "SalesQuantityTotal": 11044
+  },
+  {
+    "SalesQuantityLastMonth": 31168,
+    "SalesQuantityLastYear": 21115,
+    "SalesQuantityTotal": 31595
+  },
+  {
+    "SalesQuantityLastMonth": 23582,
+    "SalesQuantityLastYear": 7966,
+    "SalesQuantityTotal": 30059
+  },
+  {
+    "SalesQuantityLastMonth": 13136,
+    "SalesQuantityLastYear": 5865,
+    "SalesQuantityTotal": 4679
+  },
+  {
+    "SalesQuantityLastMonth": 16630,
+    "SalesQuantityLastYear": 9621,
+    "SalesQuantityTotal": 29904
+  },
+  {
+    "SalesQuantityLastMonth": 31529,
+    "SalesQuantityLastYear": 13728,
+    "SalesQuantityTotal": 25033
+  },
+  {
+    "SalesQuantityLastMonth": 28102,
+    "SalesQuantityLastYear": 25317,
+    "SalesQuantityTotal": 2439
+  },
+  {
+    "SalesQuantityLastMonth": 8153,
+    "SalesQuantityLastYear": 14185,
+    "SalesQuantityTotal": 21133
+  },
+  {
+    "SalesQuantityLastMonth": 11769,
+    "SalesQuantityLastYear": 14453,
+    "SalesQuantityTotal": 21097
+  },
+  {
+    "SalesQuantityLastMonth": 15730,
+    "SalesQuantityLastYear": 17924,
+    "SalesQuantityTotal": 31554
+  },
+  {
+    "SalesQuantityLastMonth": 10637,
+    "SalesQuantityLastYear": 1417,
+    "SalesQuantityTotal": 19593
+  },
+  {
+    "SalesQuantityLastMonth": 14934,
+    "SalesQuantityLastYear": 6875,
+    "SalesQuantityTotal": 18605
+  },
+  {
+    "SalesQuantityLastMonth": 11645,
+    "SalesQuantityLastYear": 15847,
+    "SalesQuantityTotal": 30569
+  },
+  {
+    "SalesQuantityLastMonth": 9038,
+    "SalesQuantityLastYear": 24183,
+    "SalesQuantityTotal": 3703
+  },
+  {
+    "SalesQuantityLastMonth": 10734,
+    "SalesQuantityLastYear": 30738,
+    "SalesQuantityTotal": 17584
+  },
+  {
+    "SalesQuantityLastMonth": 26772,
+    "SalesQuantityLastYear": 16855,
+    "SalesQuantityTotal": 22282
+  },
+  {
+    "SalesQuantityLastMonth": 27418,
+    "SalesQuantityLastYear": 6389,
+    "SalesQuantityTotal": 10363
+  },
+  {
+    "SalesQuantityLastMonth": 9141,
+    "SalesQuantityLastYear": 1509,
+    "SalesQuantityTotal": 16456
+  },
+  {
+    "SalesQuantityLastMonth": 8861,
+    "SalesQuantityLastYear": 23270,
+    "SalesQuantityTotal": 7186
+  },
+  {
+    "SalesQuantityLastMonth": 17375,
+    "SalesQuantityLastYear": 20082,
+    "SalesQuantityTotal": 9385
+  },
+  {
+    "SalesQuantityLastMonth": 19637,
+    "SalesQuantityLastYear": 7078,
+    "SalesQuantityTotal": 26810
+  },
+  {
+    "SalesQuantityLastMonth": 15469,
+    "SalesQuantityLastYear": 20559,
+    "SalesQuantityTotal": 23285
+  },
+  {
+    "SalesQuantityLastMonth": 13179,
+    "SalesQuantityLastYear": 2338,
+    "SalesQuantityTotal": 9441
+  },
+  {
+    "SalesQuantityLastMonth": 30301,
+    "SalesQuantityLastYear": 16535,
+    "SalesQuantityTotal": 28174
+  },
+  {
+    "SalesQuantityLastMonth": 31503,
+    "SalesQuantityLastYear": 30187,
+    "SalesQuantityTotal": 16215
+  },
+  {
+    "SalesQuantityLastMonth": 3804,
+    "SalesQuantityLastYear": 17765,
+    "SalesQuantityTotal": 30365
+  },
+  {
+    "SalesQuantityLastMonth": 31582,
+    "SalesQuantityLastYear": 21079,
+    "SalesQuantityTotal": 11791
+  },
+  {
+    "SalesQuantityLastMonth": 21446,
+    "SalesQuantityLastYear": 1751,
+    "SalesQuantityTotal": 32675
+  },
+  {
+    "SalesQuantityLastMonth": 3392,
+    "SalesQuantityLastYear": 6329,
+    "SalesQuantityTotal": 16372
+  },
+  {
+    "SalesQuantityLastMonth": 11675,
+    "SalesQuantityLastYear": 27038,
+    "SalesQuantityTotal": 28533
+  },
+  {
+    "SalesQuantityLastMonth": 22168,
+    "SalesQuantityLastYear": 9854,
+    "SalesQuantityTotal": 8492
+  },
+  {
+    "SalesQuantityLastMonth": 3911,
+    "SalesQuantityLastYear": 4183,
+    "SalesQuantityTotal": 2371
+  },
+  {
+    "SalesQuantityLastMonth": 6469,
+    "SalesQuantityLastYear": 22169,
+    "SalesQuantityTotal": 31764
+  },
+  {
+    "SalesQuantityLastMonth": 14495,
+    "SalesQuantityLastYear": 4306,
+    "SalesQuantityTotal": 1178
+  },
+  {
+    "SalesQuantityLastMonth": 11608,
+    "SalesQuantityLastYear": 21050,
+    "SalesQuantityTotal": 10126
+  },
+  {
+    "SalesQuantityLastMonth": 25851,
+    "SalesQuantityLastYear": 23739,
+    "SalesQuantityTotal": 13827
+  },
+  {
+    "SalesQuantityLastMonth": 2572,
+    "SalesQuantityLastYear": 11787,
+    "SalesQuantityTotal": 20822
+  },
+  {
+    "SalesQuantityLastMonth": 26274,
+    "SalesQuantityLastYear": 16443,
+    "SalesQuantityTotal": 18400
+  },
+  {
+    "SalesQuantityLastMonth": 25314,
+    "SalesQuantityLastYear": 15561,
+    "SalesQuantityTotal": 17422
+  },
+  {
+    "SalesQuantityLastMonth": 21380,
+    "SalesQuantityLastYear": 7168,
+    "SalesQuantityTotal": 1760
+  },
+  {
+    "SalesQuantityLastMonth": 8068,
+    "SalesQuantityLastYear": 13676,
+    "SalesQuantityTotal": 9117
+  },
+  {
+    "SalesQuantityLastMonth": 18576,
+    "SalesQuantityLastYear": 23267,
+    "SalesQuantityTotal": 26532
+  },
+  {
+    "SalesQuantityLastMonth": 12287,
+    "SalesQuantityLastYear": 1688,
+    "SalesQuantityTotal": 11551
+  },
+  {
+    "SalesQuantityLastMonth": 8451,
+    "SalesQuantityLastYear": 32586,
+    "SalesQuantityTotal": 6840
+  },
+  {
+    "SalesQuantityLastMonth": 7741,
+    "SalesQuantityLastYear": 20524,
+    "SalesQuantityTotal": 22911
+  },
+  {
+    "SalesQuantityLastMonth": 15189,
+    "SalesQuantityLastYear": 15110,
+    "SalesQuantityTotal": 28970
+  },
+  {
+    "SalesQuantityLastMonth": 23288,
+    "SalesQuantityLastYear": 20704,
+    "SalesQuantityTotal": 13467
+  },
+  {
+    "SalesQuantityLastMonth": 26216,
+    "SalesQuantityLastYear": 9908,
+    "SalesQuantityTotal": 1601
+  },
+  {
+    "SalesQuantityLastMonth": 16348,
+    "SalesQuantityLastYear": 24816,
+    "SalesQuantityTotal": 18278
+  },
+  {
+    "SalesQuantityLastMonth": 19578,
+    "SalesQuantityLastYear": 21814,
+    "SalesQuantityTotal": 1044
+  },
+  {
+    "SalesQuantityLastMonth": 24851,
+    "SalesQuantityLastYear": 12991,
+    "SalesQuantityTotal": 29006
+  },
+  {
+    "SalesQuantityLastMonth": 20269,
+    "SalesQuantityLastYear": 2746,
+    "SalesQuantityTotal": 23375
+  },
+  {
+    "SalesQuantityLastMonth": 2730,
+    "SalesQuantityLastYear": 19627,
+    "SalesQuantityTotal": 32087
+  },
+  {
+    "SalesQuantityLastMonth": 11707,
+    "SalesQuantityLastYear": 12394,
+    "SalesQuantityTotal": 23789
+  },
+  {
+    "SalesQuantityLastMonth": 3592,
+    "SalesQuantityLastYear": 21004,
+    "SalesQuantityTotal": 19690
+  },
+  {
+    "SalesQuantityLastMonth": 8958,
+    "SalesQuantityLastYear": 30643,
+    "SalesQuantityTotal": 2658
+  },
+  {
+    "SalesQuantityLastMonth": 627,
+    "SalesQuantityLastYear": 25177,
+    "SalesQuantityTotal": 16648
+  },
+  {
+    "SalesQuantityLastMonth": 13824,
+    "SalesQuantityLastYear": 27369,
+    "SalesQuantityTotal": 20227
+  },
+  {
+    "SalesQuantityLastMonth": 31977,
+    "SalesQuantityLastYear": 25788,
+    "SalesQuantityTotal": 2484
+  },
+  {
+    "SalesQuantityLastMonth": 31218,
+    "SalesQuantityLastYear": 8509,
+    "SalesQuantityTotal": 905
+  },
+  {
+    "SalesQuantityLastMonth": 14877,
+    "SalesQuantityLastYear": 22505,
+    "SalesQuantityTotal": 7662
+  },
+  {
+    "SalesQuantityLastMonth": 7990,
+    "SalesQuantityLastYear": 26616,
+    "SalesQuantityTotal": 11503
+  },
+  {
+    "SalesQuantityLastMonth": 510,
+    "SalesQuantityLastYear": 20421,
+    "SalesQuantityTotal": 24582
+  },
+  {
+    "SalesQuantityLastMonth": 12636,
+    "SalesQuantityLastYear": 9599,
+    "SalesQuantityTotal": 23969
+  },
+  {
+    "SalesQuantityLastMonth": 9252,
+    "SalesQuantityLastYear": 1328,
+    "SalesQuantityTotal": 2683
+  },
+  {
+    "SalesQuantityLastMonth": 6571,
+    "SalesQuantityLastYear": 13365,
+    "SalesQuantityTotal": 29426
+  },
+  {
+    "SalesQuantityLastMonth": 16114,
+    "SalesQuantityLastYear": 9235,
+    "SalesQuantityTotal": 19207
+  },
+  {
+    "SalesQuantityLastMonth": 19501,
+    "SalesQuantityLastYear": 8635,
+    "SalesQuantityTotal": 8459
+  },
+  {
+    "SalesQuantityLastMonth": 31934,
+    "SalesQuantityLastYear": 1892,
+    "SalesQuantityTotal": 298
+  },
+  {
+    "SalesQuantityLastMonth": 3537,
+    "SalesQuantityLastYear": 30354,
+    "SalesQuantityTotal": 21177
+  },
+  {
+    "SalesQuantityLastMonth": 23834,
+    "SalesQuantityLastYear": 11058,
+    "SalesQuantityTotal": 30285
+  },
+  {
+    "SalesQuantityLastMonth": 1539,
+    "SalesQuantityLastYear": 28697,
+    "SalesQuantityTotal": 13269
+  },
+  {
+    "SalesQuantityLastMonth": 25841,
+    "SalesQuantityLastYear": 30223,
+    "SalesQuantityTotal": 30388
+  },
+  {
+    "SalesQuantityLastMonth": 15005,
+    "SalesQuantityLastYear": 8812,
+    "SalesQuantityTotal": 22700
+  },
+  {
+    "SalesQuantityLastMonth": 15834,
+    "SalesQuantityLastYear": 25446,
+    "SalesQuantityTotal": 4828
+  },
+  {
+    "SalesQuantityLastMonth": 26296,
+    "SalesQuantityLastYear": 17800,
+    "SalesQuantityTotal": 25661
+  },
+  {
+    "SalesQuantityLastMonth": 5825,
+    "SalesQuantityLastYear": 15359,
+    "SalesQuantityTotal": 20874
+  },
+  {
+    "SalesQuantityLastMonth": 24438,
+    "SalesQuantityLastYear": 28438,
+    "SalesQuantityTotal": 3259
+  },
+  {
+    "SalesQuantityLastMonth": 31795,
+    "SalesQuantityLastYear": 27450,
+    "SalesQuantityTotal": 9866
+  },
+  {
+    "SalesQuantityLastMonth": 468,
+    "SalesQuantityLastYear": 17140,
+    "SalesQuantityTotal": 26995
+  },
+  {
+    "SalesQuantityLastMonth": 12390,
+    "SalesQuantityLastYear": 21190,
+    "SalesQuantityTotal": 390
+  },
+  {
+    "SalesQuantityLastMonth": 30962,
+    "SalesQuantityLastYear": 3811,
+    "SalesQuantityTotal": 1399
+  },
+  {
+    "SalesQuantityLastMonth": 10642,
+    "SalesQuantityLastYear": 351,
+    "SalesQuantityTotal": 3841
+  },
+  {
+    "SalesQuantityLastMonth": 18659,
+    "SalesQuantityLastYear": 22782,
+    "SalesQuantityTotal": 26998
+  },
+  {
+    "SalesQuantityLastMonth": 29569,
+    "SalesQuantityLastYear": 25568,
+    "SalesQuantityTotal": 27362
+  },
+  {
+    "SalesQuantityLastMonth": 8364,
+    "SalesQuantityLastYear": 10643,
+    "SalesQuantityTotal": 17931
+  },
+  {
+    "SalesQuantityLastMonth": 27444,
+    "SalesQuantityLastYear": 3215,
+    "SalesQuantityTotal": 19387
+  },
+  {
+    "SalesQuantityLastMonth": 2102,
+    "SalesQuantityLastYear": 31048,
+    "SalesQuantityTotal": 29670
+  },
+  {
+    "SalesQuantityLastMonth": 13739,
+    "SalesQuantityLastYear": 31158,
+    "SalesQuantityTotal": 20612
+  },
+  {
+    "SalesQuantityLastMonth": 30176,
+    "SalesQuantityLastYear": 30632,
+    "SalesQuantityTotal": 10566
+  },
+  {
+    "SalesQuantityLastMonth": 27411,
+    "SalesQuantityLastYear": 25312,
+    "SalesQuantityTotal": 6634
+  },
+  {
+    "SalesQuantityLastMonth": 22741,
+    "SalesQuantityLastYear": 16656,
+    "SalesQuantityTotal": 12583
+  },
+  {
+    "SalesQuantityLastMonth": 29468,
+    "SalesQuantityLastYear": 30860,
+    "SalesQuantityTotal": 18044
+  },
+  {
+    "SalesQuantityLastMonth": 6458,
+    "SalesQuantityLastYear": 6482,
+    "SalesQuantityTotal": 16774
+  },
+  {
+    "SalesQuantityLastMonth": 343,
+    "SalesQuantityLastYear": 1758,
+    "SalesQuantityTotal": 17970
+  },
+  {
+    "SalesQuantityLastMonth": 6752,
+    "SalesQuantityLastYear": 9320,
+    "SalesQuantityTotal": 17713
+  },
+  {
+    "SalesQuantityLastMonth": 15373,
+    "SalesQuantityLastYear": 29942,
+    "SalesQuantityTotal": 11830
+  },
+  {
+    "SalesQuantityLastMonth": 1964,
+    "SalesQuantityLastYear": 3119,
+    "SalesQuantityTotal": 19380
+  },
+  {
+    "SalesQuantityLastMonth": 5450,
+    "SalesQuantityLastYear": 30814,
+    "SalesQuantityTotal": 25373
+  },
+  {
+    "SalesQuantityLastMonth": 29133,
+    "SalesQuantityLastYear": 28833,
+    "SalesQuantityTotal": 19258
+  },
+  {
+    "SalesQuantityLastMonth": 30925,
+    "SalesQuantityLastYear": 23236,
+    "SalesQuantityTotal": 20984
+  },
+  {
+    "SalesQuantityLastMonth": 31377,
+    "SalesQuantityLastYear": 25459,
+    "SalesQuantityTotal": 9372
+  },
+  {
+    "SalesQuantityLastMonth": 5123,
+    "SalesQuantityLastYear": 21947,
+    "SalesQuantityTotal": 16826
+  },
+  {
+    "SalesQuantityLastMonth": 24845,
+    "SalesQuantityLastYear": 23443,
+    "SalesQuantityTotal": 29733
+  },
+  {
+    "SalesQuantityLastMonth": 31071,
+    "SalesQuantityLastYear": 12461,
+    "SalesQuantityTotal": 24136
+  },
+  {
+    "SalesQuantityLastMonth": 5520,
+    "SalesQuantityLastYear": 25620,
+    "SalesQuantityTotal": 12294
+  },
+  {
+    "SalesQuantityLastMonth": 28137,
+    "SalesQuantityLastYear": 27571,
+    "SalesQuantityTotal": 21032
+  },
+  {
+    "SalesQuantityLastMonth": 13792,
+    "SalesQuantityLastYear": 1791,
+    "SalesQuantityTotal": 29558
+  },
+  {
+    "SalesQuantityLastMonth": 31421,
+    "SalesQuantityLastYear": 5742,
+    "SalesQuantityTotal": 1330
+  },
+  {
+    "SalesQuantityLastMonth": 21979,
+    "SalesQuantityLastYear": 19967,
+    "SalesQuantityTotal": 8325
+  },
+  {
+    "SalesQuantityLastMonth": 26305,
+    "SalesQuantityLastYear": 12126,
+    "SalesQuantityTotal": 16135
+  },
+  {
+    "SalesQuantityLastMonth": 19360,
+    "SalesQuantityLastYear": 11383,
+    "SalesQuantityTotal": 3973
+  },
+  {
+    "SalesQuantityLastMonth": 25022,
+    "SalesQuantityLastYear": 17906,
+    "SalesQuantityTotal": 11042
+  },
+  {
+    "SalesQuantityLastMonth": 23063,
+    "SalesQuantityLastYear": 22415,
+    "SalesQuantityTotal": 7147
+  },
+  {
+    "SalesQuantityLastMonth": 11960,
+    "SalesQuantityLastYear": 13168,
+    "SalesQuantityTotal": 5253
+  },
+  {
+    "SalesQuantityLastMonth": 23569,
+    "SalesQuantityLastYear": 26406,
+    "SalesQuantityTotal": 27867
+  },
+  {
+    "SalesQuantityLastMonth": 30126,
+    "SalesQuantityLastYear": 17841,
+    "SalesQuantityTotal": 26601
+  },
+  {
+    "SalesQuantityLastMonth": 12399,
+    "SalesQuantityLastYear": 28669,
+    "SalesQuantityTotal": 10718
+  },
+  {
+    "SalesQuantityLastMonth": 32149,
+    "SalesQuantityLastYear": 20872,
+    "SalesQuantityTotal": 27615
+  },
+  {
+    "SalesQuantityLastMonth": 5134,
+    "SalesQuantityLastYear": 3683,
+    "SalesQuantityTotal": 3230
+  },
+  {
+    "SalesQuantityLastMonth": 25868,
+    "SalesQuantityLastYear": 13008,
+    "SalesQuantityTotal": 1802
+  },
+  {
+    "SalesQuantityLastMonth": 853,
+    "SalesQuantityLastYear": 6293,
+    "SalesQuantityTotal": 5177
+  },
+  {
+    "SalesQuantityLastMonth": 3381,
+    "SalesQuantityLastYear": 3006,
+    "SalesQuantityTotal": 11495
+  },
+  {
+    "SalesQuantityLastMonth": 3812,
+    "SalesQuantityLastYear": 19717,
+    "SalesQuantityTotal": 25341
+  },
+  {
+    "SalesQuantityLastMonth": 28845,
+    "SalesQuantityLastYear": 31178,
+    "SalesQuantityTotal": 26329
+  },
+  {
+    "SalesQuantityLastMonth": 22205,
+    "SalesQuantityLastYear": 31206,
+    "SalesQuantityTotal": 18714
+  },
+  {
+    "SalesQuantityLastMonth": 18777,
+    "SalesQuantityLastYear": 1775,
+    "SalesQuantityTotal": 17550
+  },
+  {
+    "SalesQuantityLastMonth": 24342,
+    "SalesQuantityLastYear": 29121,
+    "SalesQuantityTotal": 28305
+  },
+  {
+    "SalesQuantityLastMonth": 25693,
+    "SalesQuantityLastYear": 2033,
+    "SalesQuantityTotal": 6164
+  },
+  {
+    "SalesQuantityLastMonth": 7945,
+    "SalesQuantityLastYear": 18987,
+    "SalesQuantityTotal": 20714
+  },
+  {
+    "SalesQuantityLastMonth": 8985,
+    "SalesQuantityLastYear": 20067,
+    "SalesQuantityTotal": 25012
+  },
+  {
+    "SalesQuantityLastMonth": 22022,
+    "SalesQuantityLastYear": 25808,
+    "SalesQuantityTotal": 12849
+  },
+  {
+    "SalesQuantityLastMonth": 24805,
+    "SalesQuantityLastYear": 21259,
+    "SalesQuantityTotal": 27000
+  },
+  {
+    "SalesQuantityLastMonth": 15091,
+    "SalesQuantityLastYear": 15361,
+    "SalesQuantityTotal": 8843
+  },
+  {
+    "SalesQuantityLastMonth": 6257,
+    "SalesQuantityLastYear": 23769,
+    "SalesQuantityTotal": 7063
+  },
+  {
+    "SalesQuantityLastMonth": 24795,
+    "SalesQuantityLastYear": 29205,
+    "SalesQuantityTotal": 25937
+  },
+  {
+    "SalesQuantityLastMonth": 5245,
+    "SalesQuantityLastYear": 742,
+    "SalesQuantityTotal": 17220
+  },
+  {
+    "SalesQuantityLastMonth": 24349,
+    "SalesQuantityLastYear": 28226,
+    "SalesQuantityTotal": 4500
+  },
+  {
+    "SalesQuantityLastMonth": 10755,
+    "SalesQuantityLastYear": 10391,
+    "SalesQuantityTotal": 3400
+  },
+  {
+    "SalesQuantityLastMonth": 13090,
+    "SalesQuantityLastYear": 29610,
+    "SalesQuantityTotal": 3806
+  },
+  {
+    "SalesQuantityLastMonth": 17592,
+    "SalesQuantityLastYear": 2208,
+    "SalesQuantityTotal": 10987
+  },
+  {
+    "SalesQuantityLastMonth": 5530,
+    "SalesQuantityLastYear": 4089,
+    "SalesQuantityTotal": 9411
+  },
+  {
+    "SalesQuantityLastMonth": 777,
+    "SalesQuantityLastYear": 9612,
+    "SalesQuantityTotal": 6656
+  },
+  {
+    "SalesQuantityLastMonth": 30222,
+    "SalesQuantityLastYear": 24545,
+    "SalesQuantityTotal": 19451
+  },
+  {
+    "SalesQuantityLastMonth": 15754,
+    "SalesQuantityLastYear": 4791,
+    "SalesQuantityTotal": 18886
+  },
+  {
+    "SalesQuantityLastMonth": 10006,
+    "SalesQuantityLastYear": 26622,
+    "SalesQuantityTotal": 27359
+  },
+  {
+    "SalesQuantityLastMonth": 14776,
+    "SalesQuantityLastYear": 13998,
+    "SalesQuantityTotal": 20228
+  },
+  {
+    "SalesQuantityLastMonth": 24533,
+    "SalesQuantityLastYear": 28485,
+    "SalesQuantityTotal": 29554
+  },
+  {
+    "SalesQuantityLastMonth": 12049,
+    "SalesQuantityLastYear": 21563,
+    "SalesQuantityTotal": 2349
+  },
+  {
+    "SalesQuantityLastMonth": 14669,
+    "SalesQuantityLastYear": 18115,
+    "SalesQuantityTotal": 14165
+  },
+  {
+    "SalesQuantityLastMonth": 18249,
+    "SalesQuantityLastYear": 11811,
+    "SalesQuantityTotal": 4305
+  },
+  {
+    "SalesQuantityLastMonth": 13038,
+    "SalesQuantityLastYear": 1789,
+    "SalesQuantityTotal": 20961
+  },
+  {
+    "SalesQuantityLastMonth": 20049,
+    "SalesQuantityLastYear": 11051,
+    "SalesQuantityTotal": 16580
+  },
+  {
+    "SalesQuantityLastMonth": 31357,
+    "SalesQuantityLastYear": 3287,
+    "SalesQuantityTotal": 25443
+  },
+  {
+    "SalesQuantityLastMonth": 5154,
+    "SalesQuantityLastYear": 26037,
+    "SalesQuantityTotal": 27241
+  },
+  {
+    "SalesQuantityLastMonth": 14148,
+    "SalesQuantityLastYear": 6219,
+    "SalesQuantityTotal": 24273
+  },
+  {
+    "SalesQuantityLastMonth": 26162,
+    "SalesQuantityLastYear": 19235,
+    "SalesQuantityTotal": 21798
+  },
+  {
+    "SalesQuantityLastMonth": 3850,
+    "SalesQuantityLastYear": 14748,
+    "SalesQuantityTotal": 19222
+  },
+  {
+    "SalesQuantityLastMonth": 9812,
+    "SalesQuantityLastYear": 7302,
+    "SalesQuantityTotal": 30129
+  },
+  {
+    "SalesQuantityLastMonth": 11981,
+    "SalesQuantityLastYear": 7518,
+    "SalesQuantityTotal": 12363
+  },
+  {
+    "SalesQuantityLastMonth": 10635,
+    "SalesQuantityLastYear": 1457,
+    "SalesQuantityTotal": 23400
+  },
+  {
+    "SalesQuantityLastMonth": 24504,
+    "SalesQuantityLastYear": 19070,
+    "SalesQuantityTotal": 24521
+  },
+  {
+    "SalesQuantityLastMonth": 17352,
+    "SalesQuantityLastYear": 21812,
+    "SalesQuantityTotal": 6828
+  },
+  {
+    "SalesQuantityLastMonth": 16564,
+    "SalesQuantityLastYear": 30963,
+    "SalesQuantityTotal": 15409
+  },
+  {
+    "SalesQuantityLastMonth": 17196,
+    "SalesQuantityLastYear": 31858,
+    "SalesQuantityTotal": 23587
+  },
+  {
+    "SalesQuantityLastMonth": 3772,
+    "SalesQuantityLastYear": 17576,
+    "SalesQuantityTotal": 7670
+  },
+  {
+    "SalesQuantityLastMonth": 28898,
+    "SalesQuantityLastYear": 23163,
+    "SalesQuantityTotal": 24721
+  },
+  {
+    "SalesQuantityLastMonth": 27697,
+    "SalesQuantityLastYear": 15999,
+    "SalesQuantityTotal": 22781
+  },
+  {
+    "SalesQuantityLastMonth": 20424,
+    "SalesQuantityLastYear": 22325,
+    "SalesQuantityTotal": 26584
+  },
+  {
+    "SalesQuantityLastMonth": 13914,
+    "SalesQuantityLastYear": 22687,
+    "SalesQuantityTotal": 31837
+  },
+  {
+    "SalesQuantityLastMonth": 9318,
+    "SalesQuantityLastYear": 6858,
+    "SalesQuantityTotal": 23692
+  },
+  {
+    "SalesQuantityLastMonth": 15063,
+    "SalesQuantityLastYear": 3952,
+    "SalesQuantityTotal": 2892
+  },
+  {
+    "SalesQuantityLastMonth": 2993,
+    "SalesQuantityLastYear": 27846,
+    "SalesQuantityTotal": 14466
+  },
+  {
+    "SalesQuantityLastMonth": 7177,
+    "SalesQuantityLastYear": 4605,
+    "SalesQuantityTotal": 12663
+  },
+  {
+    "SalesQuantityLastMonth": 18710,
+    "SalesQuantityLastYear": 23603,
+    "SalesQuantityTotal": 21209
+  },
+  {
+    "SalesQuantityLastMonth": 30319,
+    "SalesQuantityLastYear": 20131,
+    "SalesQuantityTotal": 18992
+  },
+  {
+    "SalesQuantityLastMonth": 3786,
+    "SalesQuantityLastYear": 12809,
+    "SalesQuantityTotal": 4566
+  },
+  {
+    "SalesQuantityLastMonth": 11388,
+    "SalesQuantityLastYear": 1846,
+    "SalesQuantityTotal": 20410
+  },
+  {
+    "SalesQuantityLastMonth": 15705,
+    "SalesQuantityLastYear": 18226,
+    "SalesQuantityTotal": 875
+  },
+  {
+    "SalesQuantityLastMonth": 4336,
+    "SalesQuantityLastYear": 29513,
+    "SalesQuantityTotal": 30705
+  },
+  {
+    "SalesQuantityLastMonth": 25375,
+    "SalesQuantityLastYear": 16908,
+    "SalesQuantityTotal": 17494
+  },
+  {
+    "SalesQuantityLastMonth": 21900,
+    "SalesQuantityLastYear": 8806,
+    "SalesQuantityTotal": 26272
+  },
+  {
+    "SalesQuantityLastMonth": 17051,
+    "SalesQuantityLastYear": 19891,
+    "SalesQuantityTotal": 1135
+  },
+  {
+    "SalesQuantityLastMonth": 14839,
+    "SalesQuantityLastYear": 12592,
+    "SalesQuantityTotal": 14687
+  },
+  {
+    "SalesQuantityLastMonth": 16242,
+    "SalesQuantityLastYear": 20371,
+    "SalesQuantityTotal": 15290
+  },
+  {
+    "SalesQuantityLastMonth": 30056,
+    "SalesQuantityLastYear": 31946,
+    "SalesQuantityTotal": 31983
+  },
+  {
+    "SalesQuantityLastMonth": 24773,
+    "SalesQuantityLastYear": 6708,
+    "SalesQuantityTotal": 6008
+  },
+  {
+    "SalesQuantityLastMonth": 10384,
+    "SalesQuantityLastYear": 10134,
+    "SalesQuantityTotal": 27527
+  },
+  {
+    "SalesQuantityLastMonth": 30698,
+    "SalesQuantityLastYear": 5267,
+    "SalesQuantityTotal": 18493
+  },
+  {
+    "SalesQuantityLastMonth": 2273,
+    "SalesQuantityLastYear": 31425,
+    "SalesQuantityTotal": 31101
+  },
+  {
+    "SalesQuantityLastMonth": 16528,
+    "SalesQuantityLastYear": 14569,
+    "SalesQuantityTotal": 29220
+  },
+  {
+    "SalesQuantityLastMonth": 28522,
+    "SalesQuantityLastYear": 1958,
+    "SalesQuantityTotal": 12658
+  },
+  {
+    "SalesQuantityLastMonth": 4302,
+    "SalesQuantityLastYear": 3336,
+    "SalesQuantityTotal": 2906
+  },
+  {
+    "SalesQuantityLastMonth": 30737,
+    "SalesQuantityLastYear": 24742,
+    "SalesQuantityTotal": 18371
+  },
+  {
+    "SalesQuantityLastMonth": 295,
+    "SalesQuantityLastYear": 671,
+    "SalesQuantityTotal": 1697
+  },
+  {
+    "SalesQuantityLastMonth": 5120,
+    "SalesQuantityLastYear": 4995,
+    "SalesQuantityTotal": 24253
+  },
+  {
+    "SalesQuantityLastMonth": 19622,
+    "SalesQuantityLastYear": 7030,
+    "SalesQuantityTotal": 22735
+  },
+  {
+    "SalesQuantityLastMonth": 22991,
+    "SalesQuantityLastYear": 17693,
+    "SalesQuantityTotal": 1653
+  },
+  {
+    "SalesQuantityLastMonth": 31630,
+    "SalesQuantityLastYear": 16182,
+    "SalesQuantityTotal": 14258
+  },
+  {
+    "SalesQuantityLastMonth": 30927,
+    "SalesQuantityLastYear": 1929,
+    "SalesQuantityTotal": 23918
+  },
+  {
+    "SalesQuantityLastMonth": 19536,
+    "SalesQuantityLastYear": 28840,
+    "SalesQuantityTotal": 30243
+  },
+  {
+    "SalesQuantityLastMonth": 19581,
+    "SalesQuantityLastYear": 20726,
+    "SalesQuantityTotal": 3627
+  },
+  {
+    "SalesQuantityLastMonth": 6906,
+    "SalesQuantityLastYear": 7733,
+    "SalesQuantityTotal": 12164
+  },
+  {
+    "SalesQuantityLastMonth": 3040,
+    "SalesQuantityLastYear": 1486,
+    "SalesQuantityTotal": 19663
+  },
+  {
+    "SalesQuantityLastMonth": 3498,
+    "SalesQuantityLastYear": 31709,
+    "SalesQuantityTotal": 30323
+  },
+  {
+    "SalesQuantityLastMonth": 831,
+    "SalesQuantityLastYear": 26560,
+    "SalesQuantityTotal": 26361
+  },
+  {
+    "SalesQuantityLastMonth": 25043,
+    "SalesQuantityLastYear": 27714,
+    "SalesQuantityTotal": 31452
+  },
+  {
+    "SalesQuantityLastMonth": 21748,
+    "SalesQuantityLastYear": 11504,
+    "SalesQuantityTotal": 10757
+  },
+  {
+    "SalesQuantityLastMonth": 9119,
+    "SalesQuantityLastYear": 14079,
+    "SalesQuantityTotal": 18411
+  },
+  {
+    "SalesQuantityLastMonth": 30472,
+    "SalesQuantityLastYear": 4044,
+    "SalesQuantityTotal": 14811
+  },
+  {
+    "SalesQuantityLastMonth": 10740,
+    "SalesQuantityLastYear": 31309,
+    "SalesQuantityTotal": 16698
+  },
+  {
+    "SalesQuantityLastMonth": 9144,
+    "SalesQuantityLastYear": 13902,
+    "SalesQuantityTotal": 4222
+  },
+  {
+    "SalesQuantityLastMonth": 18307,
+    "SalesQuantityLastYear": 17037,
+    "SalesQuantityTotal": 20881
+  },
+  {
+    "SalesQuantityLastMonth": 12971,
+    "SalesQuantityLastYear": 23058,
+    "SalesQuantityTotal": 27633
+  },
+  {
+    "SalesQuantityLastMonth": 19950,
+    "SalesQuantityLastYear": 22739,
+    "SalesQuantityTotal": 16899
+  },
+  {
+    "SalesQuantityLastMonth": 19749,
+    "SalesQuantityLastYear": 18751,
+    "SalesQuantityTotal": 4098
+  },
+  {
+    "SalesQuantityLastMonth": 31054,
+    "SalesQuantityLastYear": 22389,
+    "SalesQuantityTotal": 20664
+  },
+  {
+    "SalesQuantityLastMonth": 6139,
+    "SalesQuantityLastYear": 6982,
+    "SalesQuantityTotal": 25234
+  },
+  {
+    "SalesQuantityLastMonth": 30556,
+    "SalesQuantityLastYear": 19742,
+    "SalesQuantityTotal": 10717
+  },
+  {
+    "SalesQuantityLastMonth": 6902,
+    "SalesQuantityLastYear": 17984,
+    "SalesQuantityTotal": 9202
+  },
+  {
+    "SalesQuantityLastMonth": 3945,
+    "SalesQuantityLastYear": 30120,
+    "SalesQuantityTotal": 25068
+  },
+  {
+    "SalesQuantityLastMonth": 2945,
+    "SalesQuantityLastYear": 3221,
+    "SalesQuantityTotal": 18063
+  },
+  {
+    "SalesQuantityLastMonth": 29377,
+    "SalesQuantityLastYear": 8508,
+    "SalesQuantityTotal": 9580
+  },
+  {
+    "SalesQuantityLastMonth": 4418,
+    "SalesQuantityLastYear": 14998,
+    "SalesQuantityTotal": 8649
+  },
+  {
+    "SalesQuantityLastMonth": 26882,
+    "SalesQuantityLastYear": 24321,
+    "SalesQuantityTotal": 20785
+  },
+  {
+    "SalesQuantityLastMonth": 27098,
+    "SalesQuantityLastYear": 32427,
+    "SalesQuantityTotal": 26630
+  },
+  {
+    "SalesQuantityLastMonth": 5758,
+    "SalesQuantityLastYear": 22843,
+    "SalesQuantityTotal": 25425
+  },
+  {
+    "SalesQuantityLastMonth": 9972,
+    "SalesQuantityLastYear": 16678,
+    "SalesQuantityTotal": 17248
+  },
+  {
+    "SalesQuantityLastMonth": 7845,
+    "SalesQuantityLastYear": 10390,
+    "SalesQuantityTotal": 3152
+  },
+  {
+    "SalesQuantityLastMonth": 4025,
+    "SalesQuantityLastYear": 19369,
+    "SalesQuantityTotal": 30280
+  },
+  {
+    "SalesQuantityLastMonth": 27650,
+    "SalesQuantityLastYear": 20050,
+    "SalesQuantityTotal": 13933
+  },
+  {
+    "SalesQuantityLastMonth": 25395,
+    "SalesQuantityLastYear": 944,
+    "SalesQuantityTotal": 31151
+  },
+  {
+    "SalesQuantityLastMonth": 1932,
+    "SalesQuantityLastYear": 14136,
+    "SalesQuantityTotal": 11340
+  },
+  {
+    "SalesQuantityLastMonth": 1977,
+    "SalesQuantityLastYear": 24751,
+    "SalesQuantityTotal": 3929
+  },
+  {
+    "SalesQuantityLastMonth": 26038,
+    "SalesQuantityLastYear": 31724,
+    "SalesQuantityTotal": 18498
+  },
+  {
+    "SalesQuantityLastMonth": 12572,
+    "SalesQuantityLastYear": 15340,
+    "SalesQuantityTotal": 30955
+  },
+  {
+    "SalesQuantityLastMonth": 5186,
+    "SalesQuantityLastYear": 2481,
+    "SalesQuantityTotal": 26017
+  },
+  {
+    "SalesQuantityLastMonth": 10698,
+    "SalesQuantityLastYear": 2204,
+    "SalesQuantityTotal": 30953
+  },
+  {
+    "SalesQuantityLastMonth": 12385,
+    "SalesQuantityLastYear": 919,
+    "SalesQuantityTotal": 31958
+  },
+  {
+    "SalesQuantityLastMonth": 1521,
+    "SalesQuantityLastYear": 11229,
+    "SalesQuantityTotal": 22048
+  },
+  {
+    "SalesQuantityLastMonth": 29370,
+    "SalesQuantityLastYear": 29439,
+    "SalesQuantityTotal": 11310
+  },
+  {
+    "SalesQuantityLastMonth": 28246,
+    "SalesQuantityLastYear": 4081,
+    "SalesQuantityTotal": 11309
+  },
+  {
+    "SalesQuantityLastMonth": 23704,
+    "SalesQuantityLastYear": 17988,
+    "SalesQuantityTotal": 32605
+  },
+  {
+    "SalesQuantityLastMonth": 18291,
+    "SalesQuantityLastYear": 22115,
+    "SalesQuantityTotal": 30586
+  },
+  {
+    "SalesQuantityLastMonth": 17595,
+    "SalesQuantityLastYear": 21452,
+    "SalesQuantityTotal": 21181
+  },
+  {
+    "SalesQuantityLastMonth": 25349,
+    "SalesQuantityLastYear": 25424,
+    "SalesQuantityTotal": 10018
+  },
+  {
+    "SalesQuantityLastMonth": 20684,
+    "SalesQuantityLastYear": 14953,
+    "SalesQuantityTotal": 31508
+  },
+  {
+    "SalesQuantityLastMonth": 454,
+    "SalesQuantityLastYear": 22315,
+    "SalesQuantityTotal": 13473
+  },
+  {
+    "SalesQuantityLastMonth": 711,
+    "SalesQuantityLastYear": 13777,
+    "SalesQuantityTotal": 27560
+  },
+  {
+    "SalesQuantityLastMonth": 7326,
+    "SalesQuantityLastYear": 29366,
+    "SalesQuantityTotal": 30989
+  },
+  {
+    "SalesQuantityLastMonth": 7443,
+    "SalesQuantityLastYear": 10869,
+    "SalesQuantityTotal": 19354
+  },
+  {
+    "SalesQuantityLastMonth": 27129,
+    "SalesQuantityLastYear": 26645,
+    "SalesQuantityTotal": 23490
+  },
+  {
+    "SalesQuantityLastMonth": 19351,
+    "SalesQuantityLastYear": 8284,
+    "SalesQuantityTotal": 10860
+  },
+  {
+    "SalesQuantityLastMonth": 22530,
+    "SalesQuantityLastYear": 16950,
+    "SalesQuantityTotal": 26861
+  },
+  {
+    "SalesQuantityLastMonth": 11571,
+    "SalesQuantityLastYear": 1627,
+    "SalesQuantityTotal": 16693
+  },
+  {
+    "SalesQuantityLastMonth": 22545,
+    "SalesQuantityLastYear": 1122,
+    "SalesQuantityTotal": 4276
+  },
+  {
+    "SalesQuantityLastMonth": 4270,
+    "SalesQuantityLastYear": 23740,
+    "SalesQuantityTotal": 23393
+  },
+  {
+    "SalesQuantityLastMonth": 19773,
+    "SalesQuantityLastYear": 485,
+    "SalesQuantityTotal": 28048
+  },
+  {
+    "SalesQuantityLastMonth": 14534,
+    "SalesQuantityLastYear": 30604,
+    "SalesQuantityTotal": 32376
+  },
+  {
+    "SalesQuantityLastMonth": 23248,
+    "SalesQuantityLastYear": 4467,
+    "SalesQuantityTotal": 17660
+  },
+  {
+    "SalesQuantityLastMonth": 20070,
+    "SalesQuantityLastYear": 14927,
+    "SalesQuantityTotal": 19972
+  },
+  {
+    "SalesQuantityLastMonth": 31008,
+    "SalesQuantityLastYear": 26819,
+    "SalesQuantityTotal": 2190
+  },
+  {
+    "SalesQuantityLastMonth": 23435,
+    "SalesQuantityLastYear": 12656,
+    "SalesQuantityTotal": 4348
+  },
+  {
+    "SalesQuantityLastMonth": 9234,
+    "SalesQuantityLastYear": 16271,
+    "SalesQuantityTotal": 28221
+  },
+  {
+    "SalesQuantityLastMonth": 2157,
+    "SalesQuantityLastYear": 10778,
+    "SalesQuantityTotal": 16786
+  },
+  {
+    "SalesQuantityLastMonth": 24000,
+    "SalesQuantityLastYear": 26694,
+    "SalesQuantityTotal": 3305
+  },
+  {
+    "SalesQuantityLastMonth": 25351,
+    "SalesQuantityLastYear": 7504,
+    "SalesQuantityTotal": 16818
+  },
+  {
+    "SalesQuantityLastMonth": 23864,
+    "SalesQuantityLastYear": 19124,
+    "SalesQuantityTotal": 24581
+  },
+  {
+    "SalesQuantityLastMonth": 12851,
+    "SalesQuantityLastYear": 28809,
+    "SalesQuantityTotal": 23882
+  },
+  {
+    "SalesQuantityLastMonth": 28870,
+    "SalesQuantityLastYear": 4073,
+    "SalesQuantityTotal": 5815
+  },
+  {
+    "SalesQuantityLastMonth": 17415,
+    "SalesQuantityLastYear": 32058,
+    "SalesQuantityTotal": 7047
+  },
+  {
+    "SalesQuantityLastMonth": 29411,
+    "SalesQuantityLastYear": 14423,
+    "SalesQuantityTotal": 18453
+  },
+  {
+    "SalesQuantityLastMonth": 20954,
+    "SalesQuantityLastYear": 7070,
+    "SalesQuantityTotal": 5572
+  },
+  {
+    "SalesQuantityLastMonth": 2336,
+    "SalesQuantityLastYear": 560,
+    "SalesQuantityTotal": 10993
+  },
+  {
+    "SalesQuantityLastMonth": 15680,
+    "SalesQuantityLastYear": 24019,
+    "SalesQuantityTotal": 12033
+  },
+  {
+    "SalesQuantityLastMonth": 19080,
+    "SalesQuantityLastYear": 28702,
+    "SalesQuantityTotal": 6718
+  },
+  {
+    "SalesQuantityLastMonth": 13234,
+    "SalesQuantityLastYear": 11375,
+    "SalesQuantityTotal": 2321
+  },
+  {
+    "SalesQuantityLastMonth": 25076,
+    "SalesQuantityLastYear": 12821,
+    "SalesQuantityTotal": 30877
+  },
+  {
+    "SalesQuantityLastMonth": 28875,
+    "SalesQuantityLastYear": 12139,
+    "SalesQuantityTotal": 10033
+  },
+  {
+    "SalesQuantityLastMonth": 14224,
+    "SalesQuantityLastYear": 2919,
+    "SalesQuantityTotal": 11075
+  },
+  {
+    "SalesQuantityLastMonth": 27332,
+    "SalesQuantityLastYear": 8838,
+    "SalesQuantityTotal": 31301
+  },
+  {
+    "SalesQuantityLastMonth": 24587,
+    "SalesQuantityLastYear": 16980,
+    "SalesQuantityTotal": 21429
+  },
+  {
+    "SalesQuantityLastMonth": 5513,
+    "SalesQuantityLastYear": 29123,
+    "SalesQuantityTotal": 31100
+  },
+  {
+    "SalesQuantityLastMonth": 3302,
+    "SalesQuantityLastYear": 19879,
+    "SalesQuantityTotal": 30501
+  },
+  {
+    "SalesQuantityLastMonth": 7199,
+    "SalesQuantityLastYear": 8440,
+    "SalesQuantityTotal": 27873
+  },
+  {
+    "SalesQuantityLastMonth": 12803,
+    "SalesQuantityLastYear": 26538,
+    "SalesQuantityTotal": 362
+  },
+  {
+    "SalesQuantityLastMonth": 2284,
+    "SalesQuantityLastYear": 22408,
+    "SalesQuantityTotal": 23606
+  },
+  {
+    "SalesQuantityLastMonth": 27208,
+    "SalesQuantityLastYear": 7238,
+    "SalesQuantityTotal": 26993
+  },
+  {
+    "SalesQuantityLastMonth": 31302,
+    "SalesQuantityLastYear": 18315,
+    "SalesQuantityTotal": 6569
+  },
+  {
+    "SalesQuantityLastMonth": 11177,
+    "SalesQuantityLastYear": 25614,
+    "SalesQuantityTotal": 2908
+  },
+  {
+    "SalesQuantityLastMonth": 24028,
+    "SalesQuantityLastYear": 2410,
+    "SalesQuantityTotal": 17146
+  },
+  {
+    "SalesQuantityLastMonth": 32200,
+    "SalesQuantityLastYear": 27821,
+    "SalesQuantityTotal": 25498
+  },
+  {
+    "SalesQuantityLastMonth": 8385,
+    "SalesQuantityLastYear": 10188,
+    "SalesQuantityTotal": 24263
+  },
+  {
+    "SalesQuantityLastMonth": 2060,
+    "SalesQuantityLastYear": 5877,
+    "SalesQuantityTotal": 25053
+  },
+  {
+    "SalesQuantityLastMonth": 20691,
+    "SalesQuantityLastYear": 17034,
+    "SalesQuantityTotal": 29997
+  },
+  {
+    "SalesQuantityLastMonth": 20453,
+    "SalesQuantityLastYear": 2812,
+    "SalesQuantityTotal": 9046
+  },
+  {
+    "SalesQuantityLastMonth": 5179,
+    "SalesQuantityLastYear": 17999,
+    "SalesQuantityTotal": 4349
+  },
+  {
+    "SalesQuantityLastMonth": 9493,
+    "SalesQuantityLastYear": 9997,
+    "SalesQuantityTotal": 27204
+  },
+  {
+    "SalesQuantityLastMonth": 6979,
+    "SalesQuantityLastYear": 11063,
+    "SalesQuantityTotal": 24787
+  },
+  {
+    "SalesQuantityLastMonth": 24893,
+    "SalesQuantityLastYear": 27033,
+    "SalesQuantityTotal": 27848
+  },
+  {
+    "SalesQuantityLastMonth": 32010,
+    "SalesQuantityLastYear": 1459,
+    "SalesQuantityTotal": 3925
+  },
+  {
+    "SalesQuantityLastMonth": 24061,
+    "SalesQuantityLastYear": 28440,
+    "SalesQuantityTotal": 17750
+  },
+  {
+    "SalesQuantityLastMonth": 28887,
+    "SalesQuantityLastYear": 9686,
+    "SalesQuantityTotal": 9554
+  },
+  {
+    "SalesQuantityLastMonth": 14279,
+    "SalesQuantityLastYear": 13674,
+    "SalesQuantityTotal": 3200
+  },
+  {
+    "SalesQuantityLastMonth": 11017,
+    "SalesQuantityLastYear": 5434,
+    "SalesQuantityTotal": 21371
+  },
+  {
+    "SalesQuantityLastMonth": 6505,
+    "SalesQuantityLastYear": 30392,
+    "SalesQuantityTotal": 22302
+  },
+  {
+    "SalesQuantityLastMonth": 13947,
+    "SalesQuantityLastYear": 5417,
+    "SalesQuantityTotal": 15237
+  },
+  {
+    "SalesQuantityLastMonth": 1072,
+    "SalesQuantityLastYear": 17179,
+    "SalesQuantityTotal": 13052
+  },
+  {
+    "SalesQuantityLastMonth": 22963,
+    "SalesQuantityLastYear": 18079,
+    "SalesQuantityTotal": 3470
+  },
+  {
+    "SalesQuantityLastMonth": 16720,
+    "SalesQuantityLastYear": 14691,
+    "SalesQuantityTotal": 16365
+  },
+  {
+    "SalesQuantityLastMonth": 9507,
+    "SalesQuantityLastYear": 2817,
+    "SalesQuantityTotal": 4674
+  },
+  {
+    "SalesQuantityLastMonth": 21362,
+    "SalesQuantityLastYear": 12502,
+    "SalesQuantityTotal": 24333
+  },
+  {
+    "SalesQuantityLastMonth": 25894,
+    "SalesQuantityLastYear": 32260,
+    "SalesQuantityTotal": 23668
+  },
+  {
+    "SalesQuantityLastMonth": 4581,
+    "SalesQuantityLastYear": 1404,
+    "SalesQuantityTotal": 31244
+  },
+  {
+    "SalesQuantityLastMonth": 4819,
+    "SalesQuantityLastYear": 6088,
+    "SalesQuantityTotal": 730
+  },
+  {
+    "SalesQuantityLastMonth": 13439,
+    "SalesQuantityLastYear": 2740,
+    "SalesQuantityTotal": 11201
+  },
+  {
+    "SalesQuantityLastMonth": 21872,
+    "SalesQuantityLastYear": 27753,
+    "SalesQuantityTotal": 17028
+  },
+  {
+    "SalesQuantityLastMonth": 643,
+    "SalesQuantityLastYear": 19514,
+    "SalesQuantityTotal": 11265
+  },
+  {
+    "SalesQuantityLastMonth": 5733,
+    "SalesQuantityLastYear": 32438,
+    "SalesQuantityTotal": 25672
+  },
+  {
+    "SalesQuantityLastMonth": 25733,
+    "SalesQuantityLastYear": 27631,
+    "SalesQuantityTotal": 30681
+  },
+  {
+    "SalesQuantityLastMonth": 28379,
+    "SalesQuantityLastYear": 5971,
+    "SalesQuantityTotal": 1766
+  },
+  {
+    "SalesQuantityLastMonth": 2872,
+    "SalesQuantityLastYear": 16953,
+    "SalesQuantityTotal": 17889
+  },
+  {
+    "SalesQuantityLastMonth": 1250,
+    "SalesQuantityLastYear": 1196,
+    "SalesQuantityTotal": 1701
+  },
+  {
+    "SalesQuantityLastMonth": 13851,
+    "SalesQuantityLastYear": 7225,
+    "SalesQuantityTotal": 15745
+  },
+  {
+    "SalesQuantityLastMonth": 10172,
+    "SalesQuantityLastYear": 12853,
+    "SalesQuantityTotal": 11904
+  },
+  {
+    "SalesQuantityLastMonth": 24486,
+    "SalesQuantityLastYear": 13516,
+    "SalesQuantityTotal": 30150
+  },
+  {
+    "SalesQuantityLastMonth": 16246,
+    "SalesQuantityLastYear": 1508,
+    "SalesQuantityTotal": 13880
+  },
+  {
+    "SalesQuantityLastMonth": 7118,
+    "SalesQuantityLastYear": 8381,
+    "SalesQuantityTotal": 14522
+  },
+  {
+    "SalesQuantityLastMonth": 18556,
+    "SalesQuantityLastYear": 2125,
+    "SalesQuantityTotal": 18388
+  },
+  {
+    "SalesQuantityLastMonth": 15885,
+    "SalesQuantityLastYear": 12831,
+    "SalesQuantityTotal": 31428
+  },
+  {
+    "SalesQuantityLastMonth": 416,
+    "SalesQuantityLastYear": 4885,
+    "SalesQuantityTotal": 25754
+  },
+  {
+    "SalesQuantityLastMonth": 8970,
+    "SalesQuantityLastYear": 28201,
+    "SalesQuantityTotal": 29734
+  },
+  {
+    "SalesQuantityLastMonth": 2203,
+    "SalesQuantityLastYear": 21902,
+    "SalesQuantityTotal": 15608
+  },
+  {
+    "SalesQuantityLastMonth": 12444,
+    "SalesQuantityLastYear": 1800,
+    "SalesQuantityTotal": 9755
+  },
+  {
+    "SalesQuantityLastMonth": 8276,
+    "SalesQuantityLastYear": 20783,
+    "SalesQuantityTotal": 6916
+  },
+  {
+    "SalesQuantityLastMonth": 32128,
+    "SalesQuantityLastYear": 14014,
+    "SalesQuantityTotal": 28290
+  },
+  {
+    "SalesQuantityLastMonth": 9743,
+    "SalesQuantityLastYear": 26379,
+    "SalesQuantityTotal": 17056
+  },
+  {
+    "SalesQuantityLastMonth": 21517,
+    "SalesQuantityLastYear": 30358,
+    "SalesQuantityTotal": 20012
+  },
+  {
+    "SalesQuantityLastMonth": 17083,
+    "SalesQuantityLastYear": 12922,
+    "SalesQuantityTotal": 16020
+  },
+  {
+    "SalesQuantityLastMonth": 15630,
+    "SalesQuantityLastYear": 18078,
+    "SalesQuantityTotal": 21637
+  },
+  {
+    "SalesQuantityLastMonth": 15191,
+    "SalesQuantityLastYear": 7065,
+    "SalesQuantityTotal": 11115
+  },
+  {
+    "SalesQuantityLastMonth": 17185,
+    "SalesQuantityLastYear": 4139,
+    "SalesQuantityTotal": 16471
+  },
+  {
+    "SalesQuantityLastMonth": 27520,
+    "SalesQuantityLastYear": 11569,
+    "SalesQuantityTotal": 8504
+  },
+  {
+    "SalesQuantityLastMonth": 893,
+    "SalesQuantityLastYear": 21831,
+    "SalesQuantityTotal": 12335
+  },
+  {
+    "SalesQuantityLastMonth": 30130,
+    "SalesQuantityLastYear": 26506,
+    "SalesQuantityTotal": 13816
+  },
+  {
+    "SalesQuantityLastMonth": 27976,
+    "SalesQuantityLastYear": 19027,
+    "SalesQuantityTotal": 2126
+  },
+  {
+    "SalesQuantityLastMonth": 26421,
+    "SalesQuantityLastYear": 3394,
+    "SalesQuantityTotal": 23440
+  },
+  {
+    "SalesQuantityLastMonth": 11274,
+    "SalesQuantityLastYear": 8953,
+    "SalesQuantityTotal": 30611
+  },
+  {
+    "SalesQuantityLastMonth": 9978,
+    "SalesQuantityLastYear": 17887,
+    "SalesQuantityTotal": 32355
+  },
+  {
+    "SalesQuantityLastMonth": 29582,
+    "SalesQuantityLastYear": 16490,
+    "SalesQuantityTotal": 20886
+  },
+  {
+    "SalesQuantityLastMonth": 13973,
+    "SalesQuantityLastYear": 23191,
+    "SalesQuantityTotal": 6309
+  },
+  {
+    "SalesQuantityLastMonth": 3032,
+    "SalesQuantityLastYear": 15913,
+    "SalesQuantityTotal": 7864
+  },
+  {
+    "SalesQuantityLastMonth": 20042,
+    "SalesQuantityLastYear": 9105,
+    "SalesQuantityTotal": 4803
+  },
+  {
+    "SalesQuantityLastMonth": 4976,
+    "SalesQuantityLastYear": 24154,
+    "SalesQuantityTotal": 30253
+  },
+  {
+    "SalesQuantityLastMonth": 26273,
+    "SalesQuantityLastYear": 32578,
+    "SalesQuantityTotal": 31874
+  },
+  {
+    "SalesQuantityLastMonth": 20811,
+    "SalesQuantityLastYear": 16207,
+    "SalesQuantityTotal": 27983
+  },
+  {
+    "SalesQuantityLastMonth": 12052,
+    "SalesQuantityLastYear": 16393,
+    "SalesQuantityTotal": 32609
+  },
+  {
+    "SalesQuantityLastMonth": 16686,
+    "SalesQuantityLastYear": 18627,
+    "SalesQuantityTotal": 17798
+  },
+  {
+    "SalesQuantityLastMonth": 26449,
+    "SalesQuantityLastYear": 32036,
+    "SalesQuantityTotal": 1305
+  },
+  {
+    "SalesQuantityLastMonth": 25017,
+    "SalesQuantityLastYear": 28613,
+    "SalesQuantityTotal": 9499
+  },
+  {
+    "SalesQuantityLastMonth": 7274,
+    "SalesQuantityLastYear": 12789,
+    "SalesQuantityTotal": 26849
+  },
+  {
+    "SalesQuantityLastMonth": 7762,
+    "SalesQuantityLastYear": 25200,
+    "SalesQuantityTotal": 3370
+  },
+  {
+    "SalesQuantityLastMonth": 15633,
+    "SalesQuantityLastYear": 18813,
+    "SalesQuantityTotal": 16120
+  },
+  {
+    "SalesQuantityLastMonth": 14590,
+    "SalesQuantityLastYear": 6727,
+    "SalesQuantityTotal": 4232
+  },
+  {
+    "SalesQuantityLastMonth": 28834,
+    "SalesQuantityLastYear": 613,
+    "SalesQuantityTotal": 16472
+  },
+  {
+    "SalesQuantityLastMonth": 18077,
+    "SalesQuantityLastYear": 10129,
+    "SalesQuantityTotal": 11800
+  },
+  {
+    "SalesQuantityLastMonth": 467,
+    "SalesQuantityLastYear": 538,
+    "SalesQuantityTotal": 25671
+  },
+  {
+    "SalesQuantityLastMonth": 14056,
+    "SalesQuantityLastYear": 30348,
+    "SalesQuantityTotal": 23350
+  }
+]
